@@ -1,0 +1,3344 @@
+[
+    {
+        "CarName": "海鸥",
+        "PriceRange": "7.38-8.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fc1c09863a48441d86e99c757790ab02~360x0.webp",
+        "SalesTrend": "37,836"
+    },
+    {
+        "CarName": "朗逸",
+        "PriceRange": "6.49-11.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/28d677a5f94a5a24103f088dd94c8515~360x0.webp",
+        "SalesTrend": "31,454"
+    },
+    {
+        "CarName": "轩逸",
+        "PriceRange": "8.06-16.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f5483079e6094fb898c14f3b3d6c1493~360x0.webp",
+        "SalesTrend": "31,239"
+    },
+    {
+        "CarName": "元PLUS",
+        "PriceRange": "12.78-16.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0a5a6f5f1e4e417f823a51d894fa7345~360x0.webp",
+        "SalesTrend": "30,615"
+    },
+    {
+        "CarName": "AION Y",
+        "PriceRange": "10.98-14.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a4dcf08d322941eb5259fbcb35ead82e~360x0.webp",
+        "SalesTrend": "27,132"
+    },
+    {
+        "CarName": "Model Y",
+        "PriceRange": "26.39-36.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6180aeadc5934c81906060f03bc651ff~360x0.webp",
+        "SalesTrend": "26,353"
+    },
+    {
+        "CarName": "速腾",
+        "PriceRange": "9.19-13.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/44c013067df2032cc03b6031eb68bf05~360x0.webp",
+        "SalesTrend": "26,043"
+    },
+    {
+        "CarName": "秦PLUS DM-i",
+        "PriceRange": "9.48-14.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b16feb96960c4b178686faea93e71f3c~360x0.webp",
+        "SalesTrend": "25,972"
+    },
+    {
+        "CarName": "哈弗H6",
+        "PriceRange": "8.39-14.20万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/418e967314e8e89e55e3b3b359377177~360x0.webp",
+        "SalesTrend": "25,928"
+    },
+    {
+        "CarName": "海豚",
+        "PriceRange": "11.68-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/146c59167c394ddb9e61d3ec6315c2c8~360x0.webp",
+        "SalesTrend": "24,735"
+    },
+    {
+        "CarName": "宋PLUS DM-i",
+        "PriceRange": "13.88-20.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f9d266bdf7d44b418eee09141be33ec0~360x0.webp",
+        "SalesTrend": "23,849"
+    },
+    {
+        "CarName": "五菱缤果",
+        "PriceRange": "5.88-8.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c316a4720f1f48da80b558c02a32b01c~360x0.webp",
+        "SalesTrend": "23,744"
+    },
+    {
+        "CarName": "长安CS75 PLUS",
+        "PriceRange": "10.49-14.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/dec41a8d4fcc422bbb34c1a71dd76a1d~360x0.webp",
+        "SalesTrend": "22,304"
+    },
+    {
+        "CarName": "本田CR-V",
+        "PriceRange": "14.59-22.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bc20bec323e9460e862ac2b30b0f9991~360x0.webp",
+        "SalesTrend": "22,202"
+    },
+    {
+        "CarName": "锋兰达",
+        "PriceRange": "10.18-16.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2e716928f981407b80c5e8772b8141a2~360x0.webp",
+        "SalesTrend": "21,704"
+    },
+    {
+        "CarName": "凯美瑞",
+        "PriceRange": "14.38-23.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/46a9db48bccc28d5a4aadcbcf9b5df96~360x0.webp",
+        "SalesTrend": "21,514"
+    },
+    {
+        "CarName": "宋Pro DM-i",
+        "PriceRange": "12.28-15.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/91291cb770c44932a3f6c14feedc82b3~360x0.webp",
+        "SalesTrend": "21,350"
+    },
+    {
+        "CarName": "五菱宏光MINIEV",
+        "PriceRange": "2.98-9.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6efbde874de291b8176fa27814b9bef3~360x0.webp",
+        "SalesTrend": "20,337"
+    },
+    {
+        "CarName": "星越L",
+        "PriceRange": "12.52-17.32万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e089916842c943ab8277e180dfb3240b~360x0.webp",
+        "SalesTrend": "20,132"
+    },
+    {
+        "CarName": "思域",
+        "PriceRange": "8.79-14.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/af835d978de92b8342d900c8473c8d88~360x0.webp",
+        "SalesTrend": "19,596"
+    },
+    {
+        "CarName": "迈腾",
+        "PriceRange": "14.79-21.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/89991e9322440768e5f67b551d6e7ee5~360x0.webp",
+        "SalesTrend": "18,911"
+    },
+    {
+        "CarName": "雅阁",
+        "PriceRange": "12.38-21.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/01ea2955a1cb44ff8f048e3deabf2c17~360x0.webp",
+        "SalesTrend": "17,052"
+    },
+    {
+        "CarName": "帕萨特",
+        "PriceRange": "13.99-20.33万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c9ddb9ea9b9047029212858b14caba31~360x0.webp",
+        "SalesTrend": "17,007"
+    },
+    {
+        "CarName": "RAV4荣放",
+        "PriceRange": "14.58-23.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d1ac1817fbc495d355e029a8b10c68f8~360x0.webp",
+        "SalesTrend": "16,326"
+    },
+    {
+        "CarName": "途观L",
+        "PriceRange": "14.08-20.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/8201ed0a4daa11da0ecfc31209187bde~360x0.webp",
+        "SalesTrend": "16,022"
+    },
+    {
+        "CarName": "长安Lumin",
+        "PriceRange": "3.99-6.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fa1ac73822c3176cc2c8b823e672b974~360x0.webp",
+        "SalesTrend": "15,533"
+    },
+    {
+        "CarName": "理想L7",
+        "PriceRange": "31.98-37.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d17549a2151349bb92d57dfdb7ce2374~360x0.webp",
+        "SalesTrend": "15,525"
+    },
+    {
+        "CarName": "瑞虎8",
+        "PriceRange": "8.58-15.09万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/734a4fbac7cf461293613d4f1a478e5b~360x0.webp",
+        "SalesTrend": "15,010"
+    },
+    {
+        "CarName": "皓影",
+        "PriceRange": "13.59-22.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9886d3b902964d73a5284eeee4f1cfa8~360x0.webp",
+        "SalesTrend": "14,532"
+    },
+    {
+        "CarName": "卡罗拉锐放",
+        "PriceRange": "10.98-16.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/58d617d55bda2d2a8aeb9b9d0e8ca823~360x0.webp",
+        "SalesTrend": "14,248"
+    },
+    {
+        "CarName": "奥迪A6L",
+        "PriceRange": "32.95-50.57万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f8250b5672059b6380b04eeeb0d7fe33~360x0.webp",
+        "SalesTrend": "14,213"
+    },
+    {
+        "CarName": "型格",
+        "PriceRange": "8.99-14.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bc48ceffe1394c528b45bb3a5042f890~360x0.webp",
+        "SalesTrend": "14,213"
+    },
+    {
+        "CarName": "威兰达",
+        "PriceRange": "13.58-22.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/39f96820a5e244b8a11ce5fae05c2006~360x0.webp",
+        "SalesTrend": "14,167"
+    },
+    {
+        "CarName": "星瑞",
+        "PriceRange": "10.87-13.37万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4fc66389c5644e648c5093b476ccd036~360x0.webp",
+        "SalesTrend": "13,798"
+    },
+    {
+        "CarName": "哈弗大狗",
+        "PriceRange": "10.49-15.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/99d2cc4666d54e5487bbda4ac6efe2f2~360x0.webp",
+        "SalesTrend": "13,796"
+    },
+    {
+        "CarName": "宝马5系",
+        "PriceRange": "32.65-42.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/3f20faf0fbf746ec82436c7e8dbf57e3~360x0.webp",
+        "SalesTrend": "13,770"
+    },
+    {
+        "CarName": "逸动",
+        "PriceRange": "6.29-9.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a86eeb4d09a3419e97f42af7cef99140~360x0.webp",
+        "SalesTrend": "13,598"
+    },
+    {
+        "CarName": "逍客",
+        "PriceRange": "11.09-16.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/74a5e843ff5340aea475757a258d43bb~360x0.webp",
+        "SalesTrend": "13,559"
+    },
+    {
+        "CarName": "卡罗拉",
+        "PriceRange": "8.18-13.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b2fb8f96191b30a2992fc05fb5af0a4c~360x0.webp",
+        "SalesTrend": "13,276"
+    },
+    {
+        "CarName": "熊猫",
+        "PriceRange": "2.99-4.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/28f29906b5d448e7b69fdc32ea85b485~360x0.webp",
+        "SalesTrend": "13,052"
+    },
+    {
+        "CarName": "理想L9",
+        "PriceRange": "42.98-45.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4f056cfb109c43308e929851d8764605~360x0.webp",
+        "SalesTrend": "12,756"
+    },
+    {
+        "CarName": "奔驰C级",
+        "PriceRange": "23.43-28.14万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fd1771f592228d51d414ac0e5fa2469c~360x0.webp",
+        "SalesTrend": "12,600"
+    },
+    {
+        "CarName": "问界M7",
+        "PriceRange": "24.98-37.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ec234ea1f5a64f9b940ac268fa562ec4~360x0.webp",
+        "SalesTrend": "12,193"
+    },
+    {
+        "CarName": "奥迪A4L",
+        "PriceRange": "22.53-30.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/db765ed4695e4d1e808f3344a2637ff8~360x0.webp",
+        "SalesTrend": "12,190"
+    },
+    {
+        "CarName": "理想L8",
+        "PriceRange": "33.98-39.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/df46af6b3ad1439f83d4448cfb729918~360x0.webp",
+        "SalesTrend": "12,142"
+    },
+    {
+        "CarName": "宝马3系",
+        "PriceRange": "22.88-30.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b4f69ed40e9e2f4f40a8874ce323e181~360x0.webp",
+        "SalesTrend": "12,137"
+    },
+    {
+        "CarName": "秦PLUS EV",
+        "PriceRange": "11.98-19.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a0cc62d5e0e7440dbd10b61b898f34d8~360x0.webp",
+        "SalesTrend": "11,930"
+    },
+    {
+        "CarName": "大众ID.3",
+        "PriceRange": "12.59-14.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c55ec29bd2f545239f812024e3ceb691~360x0.webp",
+        "SalesTrend": "11,812"
+    },
+    {
+        "CarName": "奔驰E级",
+        "PriceRange": "34.01-46.95万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/edde3643a62581f4d0234d9debf1ba1b~360x0.webp",
+        "SalesTrend": "11,800"
+    },
+    {
+        "CarName": "AION S",
+        "PriceRange": "11.98-18.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7935ead334714f0d95845c78cdb9ce59~360x0.webp",
+        "SalesTrend": "11,730"
+    },
+    {
+        "CarName": "帝豪",
+        "PriceRange": "5.79-11.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/02331e293a0745c18554272bcedffff3~360x0.webp",
+        "SalesTrend": "11,432"
+    },
+    {
+        "CarName": "博越L",
+        "PriceRange": "11.37-15.87万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1214ac87d1a1f6dd0313f3d3d336c2eb~360x0.webp",
+        "SalesTrend": "11,245"
+    },
+    {
+        "CarName": "宝来",
+        "PriceRange": "7.60-12.10万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/dbd8f3ffb172ce6ef271849013b14763~360x0.webp",
+        "SalesTrend": "11,102"
+    },
+    {
+        "CarName": "别克GL8",
+        "PriceRange": "23.29-46.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1b5d71c459535ea55476f5dd7a91be6c~360x0.webp",
+        "SalesTrend": "11,028"
+    },
+    {
+        "CarName": "科鲁泽",
+        "PriceRange": "6.69-8.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f63e0947469ae2d9cee05bbdc33f514f~360x0.webp",
+        "SalesTrend": "11,025"
+    },
+    {
+        "CarName": "汉DM",
+        "PriceRange": "18.38-28.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a965de726e8a43909ebfe83ae9325804~360x0.webp",
+        "SalesTrend": "10,977"
+    },
+    {
+        "CarName": "宋PLUS EV",
+        "PriceRange": "16.98-20.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fa73e1ea76ca4aa9aa291fd9d73dbf98~360x0.webp",
+        "SalesTrend": "10,950"
+    },
+    {
+        "CarName": "奥迪Q5L",
+        "PriceRange": "29.13-37.15万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/67161a339e5c4639bdcfc59d4b67efc9~360x0.webp",
+        "SalesTrend": "10,818"
+    },
+    {
+        "CarName": "长安UNI-V",
+        "PriceRange": "10.09-13.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0d4710a714c5c25fe9c61fb95986f388~360x0.webp",
+        "SalesTrend": "10,467"
+    },
+    {
+        "CarName": "红旗H5",
+        "PriceRange": "15.98-22.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4e5a38bacf99a7c63567e63f3bde1216~360x0.webp",
+        "SalesTrend": "10,386"
+    },
+    {
+        "CarName": "捷途X70",
+        "PriceRange": "7.19-15.89万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9f9edd2f1b8f4ff68538900708783c01~360x0.webp",
+        "SalesTrend": "10,261"
+    },
+    {
+        "CarName": "凯迪拉克CT5",
+        "PriceRange": "21.47-28.67万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f46f8b91a9844a19928567a73e863101~360x0.webp",
+        "SalesTrend": "10,238"
+    },
+    {
+        "CarName": "天籁",
+        "PriceRange": "14.18-20.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/8e074b2ea146302687d68d1e51adfb3c~360x0.webp",
+        "SalesTrend": "10,180"
+    },
+    {
+        "CarName": "唐DM",
+        "PriceRange": "20.18-30.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/27126880f70d400e9a69ca835db3a11b~360x0.webp",
+        "SalesTrend": "10,166"
+    },
+    {
+        "CarName": "红旗E-QM5",
+        "PriceRange": "12.28-20.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3174065ca959cf593465c373c7722041~360x0.webp",
+        "SalesTrend": "10,021"
+    },
+    {
+        "CarName": "探岳",
+        "PriceRange": "15.49-20.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fa07dcebd6da68142bf78b8afc536956~360x0.webp",
+        "SalesTrend": "9,770"
+    },
+    {
+        "CarName": "腾势D9 DM-i",
+        "PriceRange": "33.58-44.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/33c228a4d0101c510250f1095b554e5e~360x0.webp",
+        "SalesTrend": "9,746"
+    },
+    {
+        "CarName": "红旗HS5",
+        "PriceRange": "18.38-24.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c20137f882ec47cda4c0e54e82aa1f48~360x0.webp",
+        "SalesTrend": "9,702"
+    },
+    {
+        "CarName": "汉EV",
+        "PriceRange": "20.18-30.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e6d6f7c2291d47f6a4a7d19c3ec01892~360x0.webp",
+        "SalesTrend": "9,686"
+    },
+    {
+        "CarName": "宝马X3",
+        "PriceRange": "28.96-39.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/77da976a9938b0ec5fc46615b7715e74~360x0.webp",
+        "SalesTrend": "9,642"
+    },
+    {
+        "CarName": "银河L7",
+        "PriceRange": "13.27-17.97万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1454f92451164472a8fa0973ac768322~360x0.webp",
+        "SalesTrend": "9,336"
+    },
+    {
+        "CarName": "伊兰特",
+        "PriceRange": "6.78-12.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9df2036fdb244307bed69e9e03cf2368~360x0.webp",
+        "SalesTrend": "9,184"
+    },
+    {
+        "CarName": "亚洲龙",
+        "PriceRange": "16.78-24.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5130f932ae52503625175eb6e79aaa5a~360x0.webp",
+        "SalesTrend": "8,829"
+    },
+    {
+        "CarName": "马自达3 昂克赛拉",
+        "PriceRange": "8.99-17.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2ed9950bbf60e473727cf3735528e032~360x0.webp",
+        "SalesTrend": "8,805"
+    },
+    {
+        "CarName": "零跑C11",
+        "PriceRange": "14.98-20.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5f33df9609c142048ca10d8f868db3b5~360x0.webp",
+        "SalesTrend": "8,768"
+    },
+    {
+        "CarName": "小鹏G6",
+        "PriceRange": "20.99-27.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/67c41851c96341c19c0461ff9db91911~360x0.webp",
+        "SalesTrend": "8,741"
+    },
+    {
+        "CarName": "坦克300",
+        "PriceRange": "19.98-30.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/53d89e20ef5df0119912ecfc6db642ae~360x0.webp",
+        "SalesTrend": "8,645"
+    },
+    {
+        "CarName": "五菱宏光",
+        "PriceRange": "4.60-5.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5e5eb3f0b2e232525d8d7f1d44fa55fb~360x0.webp",
+        "SalesTrend": "8,584"
+    },
+    {
+        "CarName": "深蓝S7",
+        "PriceRange": "14.99-21.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f51d4ff960ed499ea4b443967ee6b0fe~360x0.webp",
+        "SalesTrend": "8,532"
+    },
+    {
+        "CarName": "ZEEKR 001",
+        "PriceRange": "26.90-76.90万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5ae619a7dcb244778e7dac067784674b~360x0.webp",
+        "SalesTrend": "8,517"
+    },
+    {
+        "CarName": "雷凌",
+        "PriceRange": "7.58-12.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4be933594d45455592d516c912d27b69~360x0.webp",
+        "SalesTrend": "8,480"
+    },
+    {
+        "CarName": "凌渡",
+        "PriceRange": "10.49-15.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/72aad906601447f59df191ebb8522c58~360x0.webp",
+        "SalesTrend": "8,466"
+    },
+    {
+        "CarName": "长安CS55 PLUS",
+        "PriceRange": "8.29-11.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c944886785cc4dea89c3638f50c33e11~360x0.webp",
+        "SalesTrend": "8,374"
+    },
+    {
+        "CarName": "昂科威",
+        "PriceRange": "16.09-24.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8c49aa2236a74207a201bac3a1f90046~360x0.webp",
+        "SalesTrend": "8,299"
+    },
+    {
+        "CarName": "海豹DM-i",
+        "PriceRange": "16.68-23.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/3e5617b2bf4e4da7828c0f4ebd497376~360x0.webp",
+        "SalesTrend": "8,077"
+    },
+    {
+        "CarName": "途岳",
+        "PriceRange": "11.96-17.76万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7af39d3a968446848f32b453d0211164~360x0.webp",
+        "SalesTrend": "8,050"
+    },
+    {
+        "CarName": "领克08 EM-P",
+        "PriceRange": "20.28-28.20万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/17614683c5d74474b25696e6ba9f1619~360x0.webp",
+        "SalesTrend": "8,038"
+    },
+    {
+        "CarName": "艾瑞泽8",
+        "PriceRange": "9.89-13.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d8d9de3901d34378b2fd87287e07b7fa~360x0.webp",
+        "SalesTrend": "7,970"
+    },
+    {
+        "CarName": "驱逐舰 05",
+        "PriceRange": "9.48-14.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fdd396bacd4e433699c66a8dc73db8db~360x0.webp",
+        "SalesTrend": "7,966"
+    },
+    {
+        "CarName": "捷途旅行者",
+        "PriceRange": "13.99-18.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e12d84abb842430798a950248f172910~360x0.webp",
+        "SalesTrend": "7,931"
+    },
+    {
+        "CarName": "欧拉好猫",
+        "PriceRange": "10.78-14.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4d618ed49b0e4372b02670629a04f337~360x0.webp",
+        "SalesTrend": "7,664"
+    },
+    {
+        "CarName": "宝马X1",
+        "PriceRange": "20.39-25.90万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c9c9c02010874036a2f03c203ca1238a~360x0.webp",
+        "SalesTrend": "7,534"
+    },
+    {
+        "CarName": "缤越",
+        "PriceRange": "6.78-11.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d119bbcc22df849ce240cd08c329eabb~360x0.webp",
+        "SalesTrend": "7,389"
+    },
+    {
+        "CarName": "威朗",
+        "PriceRange": "8.09-11.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f935e27660580af362e268ff6a476c00~360x0.webp",
+        "SalesTrend": "7,365"
+    },
+    {
+        "CarName": "领克03",
+        "PriceRange": "12.38-42.02万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/496f813bab0e479cb6484b656f93e1d8~360x0.webp",
+        "SalesTrend": "7,363"
+    },
+    {
+        "CarName": "汉兰达",
+        "PriceRange": "23.88-31.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f1126e1c10d7481a865e1864ae09118d~360x0.webp",
+        "SalesTrend": "7,211"
+    },
+    {
+        "CarName": "本田XR-V",
+        "PriceRange": "8.89-10.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/75fc061a24092b6aa7cca9a14f8e8a2e~360x0.webp",
+        "SalesTrend": "7,201"
+    },
+    {
+        "CarName": "QQ冰淇淋",
+        "PriceRange": "2.84-5.75万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b949ba428bc143aeb2bcfdef93eb7f61~360x0.webp",
+        "SalesTrend": "7,111"
+    },
+    {
+        "CarName": "传祺M8",
+        "PriceRange": "16.98-34.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6e784e8e17abc04adea0d726fe51ff69~360x0.webp",
+        "SalesTrend": "7,088"
+    },
+    {
+        "CarName": "博越",
+        "PriceRange": "9.48-11.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9ab4d56315ff4d8c98ee26346d40f71d~360x0.webp",
+        "SalesTrend": "7,081"
+    },
+    {
+        "CarName": "长安欧尚Z6",
+        "PriceRange": "9.59-12.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/252d100a630cf9298e8d357fe7ee8ffc~360x0.webp",
+        "SalesTrend": "7,017"
+    },
+    {
+        "CarName": "奔驰GLC",
+        "PriceRange": "33.98-44.33万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ced6f5cfd808493d8380351b584516c2~360x0.webp",
+        "SalesTrend": "7,001"
+    },
+    {
+        "CarName": "蒙迪欧",
+        "PriceRange": "13.78-20.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/39e749731a0c4a3da62b8f163d395042~360x0.webp",
+        "SalesTrend": "6,865"
+    },
+    {
+        "CarName": "深蓝SL03",
+        "PriceRange": "14.59-67.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/89bf7774d79f44eab5d9acca6ba8712e~360x0.webp",
+        "SalesTrend": "6,514"
+    },
+    {
+        "CarName": "赛那",
+        "PriceRange": "29.98-40.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3d40895e3ab4e118a086187f7e78ebba~360x0.webp",
+        "SalesTrend": "6,505"
+    },
+    {
+        "CarName": "捷达VS5",
+        "PriceRange": "8.19-11.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4e0ece8f2c30e8a65193f373a1b02195~360x0.webp",
+        "SalesTrend": "6,500"
+    },
+    {
+        "CarName": "零跑T03",
+        "PriceRange": "4.99-7.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b895dcce4a1f4c22ac2890b5eeac8323~360x0.webp",
+        "SalesTrend": "6,381"
+    },
+    {
+        "CarName": "沃尔沃XC60",
+        "PriceRange": "28.39-38.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/058f6dd326221149f0f7d23aec62600c~360x0.webp",
+        "SalesTrend": "6,343"
+    },
+    {
+        "CarName": "长安欧尚X5 PLUS",
+        "PriceRange": "7.89-9.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/25c33039c0be42f59061e2dbd0ce9ae5~360x0.webp",
+        "SalesTrend": "6,271"
+    },
+    {
+        "CarName": "瑞虎9",
+        "PriceRange": "14.59-20.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b902804d7fc84f5e9ca12ac0d2ff0e27~360x0.webp",
+        "SalesTrend": "6,008"
+    },
+    {
+        "CarName": "宝马X5",
+        "PriceRange": "58.00-79.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bf84f7f297c74b4ab69467bef101e7e1~360x0.webp",
+        "SalesTrend": "5,890"
+    },
+    {
+        "CarName": "蔚来ES6",
+        "PriceRange": "33.80-39.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/64a3a0a4ae604ebab934377a157a9851~360x0.webp",
+        "SalesTrend": "5,875"
+    },
+    {
+        "CarName": "逸达",
+        "PriceRange": "7.39-9.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2ea2939fb4784bddab23b2d6d5d940ef~360x0.webp",
+        "SalesTrend": "5,794"
+    },
+    {
+        "CarName": "宝马i3",
+        "PriceRange": "21.39-28.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9ec42e56919241d7810481cc6fa5a1d4~360x0.webp",
+        "SalesTrend": "5,763"
+    },
+    {
+        "CarName": "领克06",
+        "PriceRange": "10.46-12.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/189c2b11c6396ed5c63d9db5a57e6341~360x0.webp",
+        "SalesTrend": "5,505"
+    },
+    {
+        "CarName": "荣威i5",
+        "PriceRange": "5.39-7.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/3deaa243484f4c34a254b5c212a8ad7a~360x0.webp",
+        "SalesTrend": "5,459"
+    },
+    {
+        "CarName": "缤智",
+        "PriceRange": "9.79-11.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/8667f54bc5d28b9ee06bf37dc60cc85f~360x0.webp",
+        "SalesTrend": "5,446"
+    },
+    {
+        "CarName": "本田HR-V",
+        "PriceRange": "11.69-18.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/24baeca15ca34c83a4e9ceaf09de58ea~360x0.webp",
+        "SalesTrend": "5,384"
+    },
+    {
+        "CarName": "传祺M6",
+        "PriceRange": "10.98-14.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7f73f6f447314098ac00754b8b25efd2~360x0.webp",
+        "SalesTrend": "5,171"
+    },
+    {
+        "CarName": "哈弗猛龙",
+        "PriceRange": "16.57-18.37万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c32096c27314426097e1f0b95a3c8839~360x0.webp",
+        "SalesTrend": "5,084"
+    },
+    {
+        "CarName": "坦克500 Hi4-T",
+        "PriceRange": "33.50万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7fbd823a6e444011b0b69c2a19c6fcb1~360x0.webp",
+        "SalesTrend": "5,065"
+    },
+    {
+        "CarName": "捷途大圣",
+        "PriceRange": "8.59-12.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5ba123b24bd9a5f043a996a09501b6dd~360x0.webp",
+        "SalesTrend": "5,056"
+    },
+    {
+        "CarName": "奇骏",
+        "PriceRange": "14.43-24.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5ae572c93a99402d89bab23657b64d6e~360x0.webp",
+        "SalesTrend": "5,012"
+    },
+    {
+        "CarName": "英仕派",
+        "PriceRange": "12.98-25.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/16a778954abf46d9bd130e5b2e32c98b~360x0.webp",
+        "SalesTrend": "4,907"
+    },
+    {
+        "CarName": "飞度",
+        "PriceRange": "7.38-9.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b904c6bfc5094657bbcad15af499fd16~360x0.webp",
+        "SalesTrend": "4,759"
+    },
+    {
+        "CarName": "奥迪A3",
+        "PriceRange": "14.22-18.85万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bed15598b2964894805e3c74db0e7e23~360x0.webp",
+        "SalesTrend": "4,685"
+    },
+    {
+        "CarName": "T-ROC探歌",
+        "PriceRange": "12.39-14.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/971a229a85f143dea9402821819b8b84~360x0.webp",
+        "SalesTrend": "4,684"
+    },
+    {
+        "CarName": "皇冠陆放",
+        "PriceRange": "24.78-32.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7a7143dba294bfc49ff39a154e4b9ad5~360x0.webp",
+        "SalesTrend": "4,667"
+    },
+    {
+        "CarName": "高尔夫",
+        "PriceRange": "11.18-21.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4fc088b811b34649b7293e1446212e1f~360x0.webp",
+        "SalesTrend": "4,658"
+    },
+    {
+        "CarName": "途胜",
+        "PriceRange": "12.58-18.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f2f194412c334188ace3731595a91729~360x0.webp",
+        "SalesTrend": "4,649"
+    },
+    {
+        "CarName": "瑞虎7",
+        "PriceRange": "7.09-14.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/91d1a9696ea68fc6427247e5dd2d5ef1~360x0.webp",
+        "SalesTrend": "4,619"
+    },
+    {
+        "CarName": "君威",
+        "PriceRange": "13.98-19.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/65ca9a0988cf45e29d3c04aca829f355~360x0.webp",
+        "SalesTrend": "4,599"
+    },
+    {
+        "CarName": "小鹏G9",
+        "PriceRange": "26.39-41.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/57c7fd76817fb6148dce372c42acc18c~360x0.webp",
+        "SalesTrend": "4,593"
+    },
+    {
+        "CarName": "吉利几何E萤火虫",
+        "PriceRange": "6.98-8.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ab171bed6a464941a57445172e7bf752~360x0.webp",
+        "SalesTrend": "4,578"
+    },
+    {
+        "CarName": "MG5",
+        "PriceRange": "5.79-9.09万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d6a56e2049ac4b208d49d4f02f2916c3~360x0.webp",
+        "SalesTrend": "4,563"
+    },
+    {
+        "CarName": "传祺GS3",
+        "PriceRange": "7.58-10.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a3e0987f48e44deb8709e776e4131cd7~360x0.webp",
+        "SalesTrend": "4,503"
+    },
+    {
+        "CarName": "银河L6",
+        "PriceRange": "10.98-14.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bca4b8a331d74bdbba3cda79aa7e4fa0~360x0.webp",
+        "SalesTrend": "4,374"
+    },
+    {
+        "CarName": "长安欧尚Z6 iDD新能源",
+        "PriceRange": "12.98-14.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a7724c5a79ddb299bbaa1db47a3d72a3~360x0.webp",
+        "SalesTrend": "4,298"
+    },
+    {
+        "CarName": "ID.4 CROZZ",
+        "PriceRange": "14.79-23.24万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/36142136c6134cffb5a91e3273ace471~360x0.webp",
+        "SalesTrend": "4,292"
+    },
+    {
+        "CarName": "小鹏P7",
+        "PriceRange": "20.49-33.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/008ce8adb1ad4b24acfb8fade865172a~360x0.webp",
+        "SalesTrend": "4,250"
+    },
+    {
+        "CarName": "护卫舰 07",
+        "PriceRange": "18.48-27.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/25da945746f842dbac9e8ec9d481fb6e~360x0.webp",
+        "SalesTrend": "4,247"
+    },
+    {
+        "CarName": "途昂",
+        "PriceRange": "22.50-36.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/10e227cb6150184e8a7177c3ede5ea06~360x0.webp",
+        "SalesTrend": "4,246"
+    },
+    {
+        "CarName": "捷达VS7",
+        "PriceRange": "10.09-13.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a9fccec0fd194cfcb6c2cbfe78397a4e~360x0.webp",
+        "SalesTrend": "4,195"
+    },
+    {
+        "CarName": "五菱星驰",
+        "PriceRange": "4.98-8.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8aeb5f1c39fe4c509540e272edfac572~360x0.webp",
+        "SalesTrend": "4,163"
+    },
+    {
+        "CarName": "影豹",
+        "PriceRange": "8.33-15.30万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d0be756edf1c5cf4c9e6552497309e85~360x0.webp",
+        "SalesTrend": "4,009"
+    },
+    {
+        "CarName": "奕炫",
+        "PriceRange": "6.49-9.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f2597be887af41fdb6174c3200a98d2c~360x0.webp",
+        "SalesTrend": "3,969"
+    },
+    {
+        "CarName": "北京EU5",
+        "PriceRange": "9.98-15.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fac9641308c9c3c9b23765bdcbdd6697~360x0.webp",
+        "SalesTrend": "3,907"
+    },
+    {
+        "CarName": "五菱佳辰",
+        "PriceRange": "6.38-11.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1d111f4c68dbfde0d1fd3c455a3a2db7~360x0.webp",
+        "SalesTrend": "3,810"
+    },
+    {
+        "CarName": "奔腾B70",
+        "PriceRange": "9.39-13.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bf1dd6769e7afb09fd5c2b0a3cdf2bbd~360x0.webp",
+        "SalesTrend": "3,776"
+    },
+    {
+        "CarName": "哪吒AYA",
+        "PriceRange": "7.38-8.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/181eb1cb372d46b292dc0c4da1a252a3~360x0.webp",
+        "SalesTrend": "3,767"
+    },
+    {
+        "CarName": "江淮A5 PLUS",
+        "PriceRange": "6.58-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e5430a14461b4eb6abff5a4265b9dd3a~360x0.webp",
+        "SalesTrend": "3,711"
+    },
+    {
+        "CarName": "皓极",
+        "PriceRange": "12.39-14.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fff010151b7542bca158886913117791~360x0.webp",
+        "SalesTrend": "3,671"
+    },
+    {
+        "CarName": "启辰大V DD-i超混动",
+        "PriceRange": "11.89-14.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9d1e245dc33446edb0cd4bd7bd7ae3c0~360x0.webp",
+        "SalesTrend": "3,667"
+    },
+    {
+        "CarName": "智己LS6",
+        "PriceRange": "21.49-27.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1d808aff9bfd4dfa9ab5f7296c7c4544~360x0.webp",
+        "SalesTrend": "3,627"
+    },
+    {
+        "CarName": "艾瑞泽5",
+        "PriceRange": "5.39-7.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/aef5212cbadd4c05a9c450eaed0813e1~360x0.webp",
+        "SalesTrend": "3,606"
+    },
+    {
+        "CarName": "微蓝6",
+        "PriceRange": "11.28-11.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d0c37be52fb0043b08cb96540dd7a0d0~360x0.webp",
+        "SalesTrend": "3,541"
+    },
+    {
+        "CarName": "哪吒U",
+        "PriceRange": "11.88-20.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a1d7a3c0d7394709bc0cd788e6c348a3~360x0.webp",
+        "SalesTrend": "3,540"
+    },
+    {
+        "CarName": "MG7",
+        "PriceRange": "11.98-16.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b0f952ca6faf46b1bb0fc809ab964a49~360x0.webp",
+        "SalesTrend": "3,535"
+    },
+    {
+        "CarName": "长安欧尚X7 PLUS",
+        "PriceRange": "6.49-11.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1493c42d1daebbe8b3e6e7ff2b0af4fc~360x0.webp",
+        "SalesTrend": "3,501"
+    },
+    {
+        "CarName": "五菱星辰",
+        "PriceRange": "6.08-10.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ef2d3df828e04fead57e3c86279360bd~360x0.webp",
+        "SalesTrend": "3,501"
+    },
+    {
+        "CarName": "奥迪Q3",
+        "PriceRange": "20.43-24.52万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cec6f6ed88e64f038b81185e048ebf8a~360x0.webp",
+        "SalesTrend": "3,499"
+    },
+    {
+        "CarName": "沃尔沃S90",
+        "PriceRange": "30.69-40.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/29edd1a1863d4861850a5e55c29532e8~360x0.webp",
+        "SalesTrend": "3,477"
+    },
+    {
+        "CarName": "Polo",
+        "PriceRange": "7.09-10.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a6ee19f8cb8b4ad8bab7f2b3cb0e4fa1~360x0.webp",
+        "SalesTrend": "3,460"
+    },
+    {
+        "CarName": "缤瑞",
+        "PriceRange": "8.18-9.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9125fbf12f1de7a3fe03d9a1c7857412~360x0.webp",
+        "SalesTrend": "3,423"
+    },
+    {
+        "CarName": "现代ix35",
+        "PriceRange": "9.48-15.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4759d1d531d7489dbb01a2bad3506c6b~360x0.webp",
+        "SalesTrend": "3,409"
+    },
+    {
+        "CarName": "格瑞维亚",
+        "PriceRange": "31.08-41.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/dc353aa6c1ef46eda1ea28f39304c725~360x0.webp",
+        "SalesTrend": "3,373"
+    },
+    {
+        "CarName": "奔奔E-Star",
+        "PriceRange": "6.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5a66c6bc0c1d71c7e6f68f53b902d1b9~360x0.webp",
+        "SalesTrend": "3,342"
+    },
+    {
+        "CarName": "长安CS35 PLUS",
+        "PriceRange": "6.99-8.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/810127c3c51f072dd2ea70a1a5aa09db~360x0.webp",
+        "SalesTrend": "3,309"
+    },
+    {
+        "CarName": "红旗HS3",
+        "PriceRange": "13.08-18.08万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/130d0777d22c4e7aba7791c0ee645462~360x0.webp",
+        "SalesTrend": "3,307"
+    },
+    {
+        "CarName": "大众CC",
+        "PriceRange": "19.39-24.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bc1a1cfcace04020b804932bd5c78749~360x0.webp",
+        "SalesTrend": "3,295"
+    },
+    {
+        "CarName": "奥德赛",
+        "PriceRange": "19.78-40.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/24513d34201d404f3499988efef33589~360x0.webp",
+        "SalesTrend": "3,237"
+    },
+    {
+        "CarName": "星途瑶光",
+        "PriceRange": "14.98-20.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fe5ba41003f242d994ad0722c4a9e34a~360x0.webp",
+        "SalesTrend": "3,180"
+    },
+    {
+        "CarName": "五菱荣光",
+        "PriceRange": "4.09-4.75万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/efe0d84f810fe914c7149c51a6c1658e~360x0.webp",
+        "SalesTrend": "3,126"
+    },
+    {
+        "CarName": "揽巡",
+        "PriceRange": "22.69-25.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1047df2d28b7fbef21af83a75d95ed1c~360x0.webp",
+        "SalesTrend": "3,111"
+    },
+    {
+        "CarName": "蔚来ET5T",
+        "PriceRange": "29.80-35.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a03cf015743343d0aa5a45c8b02551c9~360x0.webp",
+        "SalesTrend": "3,105"
+    },
+    {
+        "CarName": "坦克400 Hi4-T",
+        "PriceRange": "27.98-28.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f45e86b33d5d4a7aafddb5dccf225299~360x0.webp",
+        "SalesTrend": "3,102"
+    },
+    {
+        "CarName": "零跑C01",
+        "PriceRange": "14.58-20.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/29eebc897a7e48b7843ad9a59acb896b~360x0.webp",
+        "SalesTrend": "3,053"
+    },
+    {
+        "CarName": "岚图梦想家 PHEV",
+        "PriceRange": "33.99-63.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/31400576760b4db4819a38b1aeeb7c38~360x0.webp",
+        "SalesTrend": "3,004"
+    },
+    {
+        "CarName": "ID.4 X",
+        "PriceRange": "16.28-24.14万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d16a58d2e5694b7b84ba28604a6421e0~360x0.webp",
+        "SalesTrend": "2,917"
+    },
+    {
+        "CarName": "马自达CX-5",
+        "PriceRange": "12.58-20.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cd0afa2cba3f4fba8cfdac2c4417a60b~360x0.webp",
+        "SalesTrend": "2,904"
+    },
+    {
+        "CarName": "探索06",
+        "PriceRange": "11.09-13.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/93b15f0f1967433faca5cac4ef9289cd~360x0.webp",
+        "SalesTrend": "2,900"
+    },
+    {
+        "CarName": "丰田bZ3",
+        "PriceRange": "15.18-18.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cbf3ea024efc4e49ad282ed1bdc84cc4~360x0.webp",
+        "SalesTrend": "2,881"
+    },
+    {
+        "CarName": "阿维塔 11",
+        "PriceRange": "30.00-60.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5bda964d202365c9e2d3a2b387f72421~360x0.webp",
+        "SalesTrend": "2,825"
+    },
+    {
+        "CarName": "捷途X90",
+        "PriceRange": "7.89-16.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/db9398d99c107b4ee74543a8fa39cc8a~360x0.webp",
+        "SalesTrend": "2,788"
+    },
+    {
+        "CarName": "菱智",
+        "PriceRange": "5.69-9.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1b4c5e581271490ab064442a9188b466~360x0.webp",
+        "SalesTrend": "2,728"
+    },
+    {
+        "CarName": "长安启源A07",
+        "PriceRange": "14.79-16.89万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8a84daad1c4b416aac405f4ec61a2e4c~360x0.webp",
+        "SalesTrend": "2,688"
+    },
+    {
+        "CarName": "CLEVER",
+        "PriceRange": "5.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0df783917aab490ada07cd607aa9dedf~360x0.webp",
+        "SalesTrend": "2,670"
+    },
+    {
+        "CarName": "宝马iX3",
+        "PriceRange": "28.77-32.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/39eb11e1ba734c17b6a5b4c9762123ff~360x0.webp",
+        "SalesTrend": "2,659"
+    },
+    {
+        "CarName": "ZEEKR X",
+        "PriceRange": "18.98-22.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b3e8c7c8d4fd4798ab22d69c9b0d69cc~360x0.webp",
+        "SalesTrend": "2,654"
+    },
+    {
+        "CarName": "哈弗枭龙MAX",
+        "PriceRange": "14.98-17.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/94de8037fafe42d78886694b51b82c12~360x0.webp",
+        "SalesTrend": "2,636"
+    },
+    {
+        "CarName": "锐界",
+        "PriceRange": "22.09-30.09万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cad5d4e17ca14279b93666d6e3164c3d~360x0.webp",
+        "SalesTrend": "2,630"
+    },
+    {
+        "CarName": "威飒",
+        "PriceRange": "17.48-26.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/97f0b1f0d49d4d95845a17fda2bf026e~360x0.webp",
+        "SalesTrend": "2,606"
+    },
+    {
+        "CarName": "荣威RX5",
+        "PriceRange": "8.19-14.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/50e4ec0931df36a7ac8c841a023e5a60~360x0.webp",
+        "SalesTrend": "2,598"
+    },
+    {
+        "CarName": "哪吒S",
+        "PriceRange": "15.98-32.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7d0526da99f43d18ef6a7b56a6e83060~360x0.webp",
+        "SalesTrend": "2,589"
+    },
+    {
+        "CarName": "凯迪拉克XT5",
+        "PriceRange": "27.27-36.27万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/34121f151dfa4523a4d827d0d3ea7a3e~360x0.webp",
+        "SalesTrend": "2,563"
+    },
+    {
+        "CarName": "蔚来EC6",
+        "PriceRange": "35.80-41.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e3362ddc7fbb4a13a303fc940c09d0fe~360x0.webp",
+        "SalesTrend": "2,549"
+    },
+    {
+        "CarName": "领睿",
+        "PriceRange": "11.85-16.15万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2e84d7b827ee1d79eea53e9aec7ff9de~360x0.webp",
+        "SalesTrend": "2,536"
+    },
+    {
+        "CarName": "传祺GS8",
+        "PriceRange": "16.68-24.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bef1e4e3b0a6fa8de3a3887dcaaad449~360x0.webp",
+        "SalesTrend": "2,530"
+    },
+    {
+        "CarName": "君越",
+        "PriceRange": "15.99-23.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d46a7ee58b8a41ac8a6872614bd23172~360x0.webp",
+        "SalesTrend": "2,517"
+    },
+    {
+        "CarName": "长安欧尚X5",
+        "PriceRange": "6.39-9.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/72734bc7e08184f5ee36722ce8b52597~360x0.webp",
+        "SalesTrend": "2,514"
+    },
+    {
+        "CarName": "岚图FREE",
+        "PriceRange": "26.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/debb222a0b6f4a888c798b60e527050e~360x0.webp",
+        "SalesTrend": "2,493"
+    },
+    {
+        "CarName": "影酷",
+        "PriceRange": "10.48-14.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fb916563d977a0dcf0ca3a200e4eda73~360x0.webp",
+        "SalesTrend": "2,478"
+    },
+    {
+        "CarName": "小蚂蚁",
+        "PriceRange": "5.80-8.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c582d200e0fe44c7b1b5f3b6134c8849~360x0.webp",
+        "SalesTrend": "2,439"
+    },
+    {
+        "CarName": "奔驰GLB",
+        "PriceRange": "19.58-26.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a6d8b5b53eea4e509f177b2be32faf97~360x0.webp",
+        "SalesTrend": "2,400"
+    },
+    {
+        "CarName": "东风风神E70",
+        "PriceRange": "14.28-15.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3645e5106165def002a7ab1f2300c71c~360x0.webp",
+        "SalesTrend": "2,386"
+    },
+    {
+        "CarName": "纳米BOX",
+        "PriceRange": "4.87-7.47万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/49485a6aaae1402388ea2f897d97f5a7~360x0.webp",
+        "SalesTrend": "2,326"
+    },
+    {
+        "CarName": "Model 3",
+        "PriceRange": "25.99-29.74万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/03b95b9af0044017b23b3026fc8487e0~360x0.webp",
+        "SalesTrend": "2,273"
+    },
+    {
+        "CarName": "江淮X8 PLUS",
+        "PriceRange": "9.68-17.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/eb573264e40244eabe07e85c7a51e454~360x0.webp",
+        "SalesTrend": "2,257"
+    },
+    {
+        "CarName": "蔚来ES8",
+        "PriceRange": "49.80-59.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/94095b474bee49fe9cf4700d9f323b90~360x0.webp",
+        "SalesTrend": "2,251"
+    },
+    {
+        "CarName": "钇为3",
+        "PriceRange": "8.99-12.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d3b291d46e574b7db4455249b26a1887~360x0.webp",
+        "SalesTrend": "2,239"
+    },
+    {
+        "CarName": "奔驰A级",
+        "PriceRange": "12.97-17.90万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/45e55189774340fea75f1e9e1478e5dd~360x0.webp",
+        "SalesTrend": "2,228"
+    },
+    {
+        "CarName": "传祺E9 PHEV",
+        "PriceRange": "32.98-38.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/3da48c68376e4e158a93ba1e44310602~360x0.webp",
+        "SalesTrend": "2,183"
+    },
+    {
+        "CarName": "长安UNI-T",
+        "PriceRange": "10.79-13.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/09a8092ecee34808ae45128f9d2adb1e~360x0.webp",
+        "SalesTrend": "2,176"
+    },
+    {
+        "CarName": "揽境",
+        "PriceRange": "23.29-33.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e14ccc42e68c4f239d6be4af52e2995f~360x0.webp",
+        "SalesTrend": "2,167"
+    },
+    {
+        "CarName": "smart精灵#1",
+        "PriceRange": "17.90-28.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d3dc084ea15c3a5ddb79094343132daa~360x0.webp",
+        "SalesTrend": "2,138"
+    },
+    {
+        "CarName": "航海家",
+        "PriceRange": "31.28-45.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/db4c45d357eb479ca8ba4ed41f93fc5e~360x0.webp",
+        "SalesTrend": "2,119"
+    },
+    {
+        "CarName": "奥迪Q4 e-tron",
+        "PriceRange": "21.74-30.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1a4aff7cb585445d897494310ccaaaad~360x0.webp",
+        "SalesTrend": "2,103"
+    },
+    {
+        "CarName": "冒险家",
+        "PriceRange": "22.58-32.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9d39599a71b34b279c96d02bff066c3d~360x0.webp",
+        "SalesTrend": "2,059"
+    },
+    {
+        "CarName": "小鹏P5",
+        "PriceRange": "15.69-17.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6b1268066a194ee5824e3e64310dd7e1~360x0.webp",
+        "SalesTrend": "2,055"
+    },
+    {
+        "CarName": "飞凡F7",
+        "PriceRange": "21.49-28.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/05418ae564404a428099f08313bb880d~360x0.webp",
+        "SalesTrend": "2,055"
+    },
+    {
+        "CarName": "瑞虎5x",
+        "PriceRange": "5.79-8.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bf49fad02231fbc7c729f23640775a75~360x0.webp",
+        "SalesTrend": "2,047"
+    },
+    {
+        "CarName": "哈弗H5",
+        "PriceRange": "12.27-15.77万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fe308dc65e0c4b218cd26a55fc3b8728~360x0.webp",
+        "SalesTrend": "2,036"
+    },
+    {
+        "CarName": "蓝山DHT-PHEV",
+        "PriceRange": "27.38-30.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d81ba06d1efb4049a67bd2fd3b4e7f03~360x0.webp",
+        "SalesTrend": "2,032"
+    },
+    {
+        "CarName": "炫界",
+        "PriceRange": "6.39-9.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2666dff05b9d5813ff3dcfff49862beb~360x0.webp",
+        "SalesTrend": "2,028"
+    },
+    {
+        "CarName": "探险者",
+        "PriceRange": "30.98-39.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/31302546ff654c8cb31296e9b85fe510~360x0.webp",
+        "SalesTrend": "2,013"
+    },
+    {
+        "CarName": "秦EV",
+        "PriceRange": "15.58-16.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1c7a3356986a77510a0b53855fb5a868~360x0.webp",
+        "SalesTrend": "2,001"
+    },
+    {
+        "CarName": "豪越L",
+        "PriceRange": "11.79-13.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e4480726cdbc47de8251a9bbab191b7e~360x0.webp",
+        "SalesTrend": "1,997"
+    },
+    {
+        "CarName": "悦虎",
+        "PriceRange": "5.48-7.40万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/734908e2eb6373bc7e736fae703e25f6~360x0.webp",
+        "SalesTrend": "1,985"
+    },
+    {
+        "CarName": "世纪",
+        "PriceRange": "46.99-68.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c5b214e5d3fa4fa89c233743b464e318~360x0.webp",
+        "SalesTrend": "1,947"
+    },
+    {
+        "CarName": "骐达TIIDA",
+        "PriceRange": "8.49-11.09万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c2bc63fa5a1142b9aba74bf02210d1cc~360x0.webp",
+        "SalesTrend": "1,938"
+    },
+    {
+        "CarName": "长安UNI-V 智电iDD",
+        "PriceRange": "11.69-13.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6ac66805601f4925995bbfd2f85e2af4~360x0.webp",
+        "SalesTrend": "1,920"
+    },
+    {
+        "CarName": "ZEEKR 009",
+        "PriceRange": "49.90-58.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ebd486b72aae4e8a8607707a709a8121~360x0.webp",
+        "SalesTrend": "1,906"
+    },
+    {
+        "CarName": "冠道",
+        "PriceRange": "18.48-29.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fc979e09cc8f450c9a1dceb57d57ec05~360x0.webp",
+        "SalesTrend": "1,904"
+    },
+    {
+        "CarName": "星途凌云",
+        "PriceRange": "13.29-18.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/023c83c093834e84a0ed4cf48601be51~360x0.webp",
+        "SalesTrend": "1,901"
+    },
+    {
+        "CarName": "凌放HARRIER",
+        "PriceRange": "18.08-26.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b797413d40370e0efc7a2dfa9b5e9cf7~360x0.webp",
+        "SalesTrend": "1,872"
+    },
+    {
+        "CarName": "五菱之光",
+        "PriceRange": "3.51-3.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bf32df7a7883000dfdf00a7d80bf31ea~360x0.webp",
+        "SalesTrend": "1,864"
+    },
+    {
+        "CarName": "奥迪A7L",
+        "PriceRange": "37.87-62.97万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2d8a5201cffa633101a59b71d00fafef~360x0.webp",
+        "SalesTrend": "1,863"
+    },
+    {
+        "CarName": "锐际",
+        "PriceRange": "13.98-19.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e85d383a99d24b91b83a3b4e46f711fe~360x0.webp",
+        "SalesTrend": "1,840"
+    },
+    {
+        "CarName": "AION V",
+        "PriceRange": "13.99-24.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/095f566cce6b433386168deed118871d~360x0.webp",
+        "SalesTrend": "1,837"
+    },
+    {
+        "CarName": "悦也",
+        "PriceRange": "7.98-8.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/89571c98d16249bfa17a9e614ecedea0~360x0.webp",
+        "SalesTrend": "1,832"
+    },
+    {
+        "CarName": "ZR-V 致在",
+        "PriceRange": "12.49-19.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/892330c9c7844d48a5ab6846ba8d69fe~360x0.webp",
+        "SalesTrend": "1,832"
+    },
+    {
+        "CarName": "艾力绅",
+        "PriceRange": "22.68-28.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ca29b4ab792b352e4205c0a2c674453f~360x0.webp",
+        "SalesTrend": "1,829"
+    },
+    {
+        "CarName": "捷达VA3",
+        "PriceRange": "6.18-8.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f79702d9c2dbaebafe617f329a66b999~360x0.webp",
+        "SalesTrend": "1,815"
+    },
+    {
+        "CarName": "问界M5",
+        "PriceRange": "24.98-33.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/87fe46f305be3e4a5b66508782f24e81~360x0.webp",
+        "SalesTrend": "1,809"
+    },
+    {
+        "CarName": "哈弗M6",
+        "PriceRange": "6.19-8.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3318a942828459ec7ce8bd81f8e187d9~360x0.webp",
+        "SalesTrend": "1,798"
+    },
+    {
+        "CarName": "风行T5 EVO",
+        "PriceRange": "8.99-12.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6be1a593a1ee4ab4b742d25602fa2f8f~360x0.webp",
+        "SalesTrend": "1,793"
+    },
+    {
+        "CarName": "云朵",
+        "PriceRange": "9.58-13.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f7956c20545c4c87ba29f4b30e6caaf9~360x0.webp",
+        "SalesTrend": "1,753"
+    },
+    {
+        "CarName": "长安UNI-K",
+        "PriceRange": "14.99-18.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9de8acc8f08f4cd1a2304ab38d65fa46~360x0.webp",
+        "SalesTrend": "1,706"
+    },
+    {
+        "CarName": "别克E5",
+        "PriceRange": "16.99-27.89万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/433e3405bbac450d83a939bd75ae6c16~360x0.webp",
+        "SalesTrend": "1,693"
+    },
+    {
+        "CarName": "海豹",
+        "PriceRange": "18.98-27.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d7ab3d316e19b29973be27d746df2fa9~360x0.webp",
+        "SalesTrend": "1,690"
+    },
+    {
+        "CarName": "高合HiPhi Y",
+        "PriceRange": "33.90-45.90万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/02a6f8405b524d1a93e0369ea420f578~360x0.webp",
+        "SalesTrend": "1,606"
+    },
+    {
+        "CarName": "吉利ICON",
+        "PriceRange": "10.09-12.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1c4d6a1078cf0ab10fec8126528059d4~360x0.webp",
+        "SalesTrend": "1,589"
+    },
+    {
+        "CarName": "唐EV",
+        "PriceRange": "23.28-29.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0e4eb3c18a9b4970b9fb9102879d383a~360x0.webp",
+        "SalesTrend": "1,586"
+    },
+    {
+        "CarName": "标致408",
+        "PriceRange": "9.57-11.17万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/e734863947662cd987a9be96b479f828~360x0.webp",
+        "SalesTrend": "1,567"
+    },
+    {
+        "CarName": "蔚来ET5",
+        "PriceRange": "29.80-35.60万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6b3472130dfd56454f65df80d9f461f6~360x0.webp",
+        "SalesTrend": "1,551"
+    },
+    {
+        "CarName": "宝马X2",
+        "PriceRange": "18.70-21.50万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cf2391d88d57400ea42dbe95063823a7~360x0.webp",
+        "SalesTrend": "1,535"
+    },
+    {
+        "CarName": "沃尔沃S60",
+        "PriceRange": "22.59-31.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/917e910a69010277adf7b04033758613~360x0.webp",
+        "SalesTrend": "1,530"
+    },
+    {
+        "CarName": "极狐考拉",
+        "PriceRange": "13.18-16.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2ae812bccf4746899d8d2ed99bbd9573~360x0.webp",
+        "SalesTrend": "1,505"
+    },
+    {
+        "CarName": "上汽大通MAXUS G50",
+        "PriceRange": "7.68-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1f8cf3e8aa8da7a93d7fa90a0ed6e5d6~360x0.webp",
+        "SalesTrend": "1,501"
+    },
+    {
+        "CarName": "哈弗二代大狗PHEV",
+        "PriceRange": "15.68-16.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d11ce6a2cca84e77aa13a17c6b3e461e~360x0.webp",
+        "SalesTrend": "1,441"
+    },
+    {
+        "CarName": "北京BJ40",
+        "PriceRange": "14.98-25.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/440a9fd1cc1347aaaa37b6336a7680f8~360x0.webp",
+        "SalesTrend": "1,393"
+    },
+    {
+        "CarName": "本田e:NS1",
+        "PriceRange": "10.50-14.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0a57ed27aacd44b481e78ac2404d68e1~360x0.webp",
+        "SalesTrend": "1,378"
+    },
+    {
+        "CarName": "奔驰V级",
+        "PriceRange": "47.88-64.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bb1047767b9e4323bf91566259a5cb03~360x0.webp",
+        "SalesTrend": "1,364"
+    },
+    {
+        "CarName": "传祺GS4",
+        "PriceRange": "7.38-11.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0d580559172745108aaaa3b7e2aa8a18~360x0.webp",
+        "SalesTrend": "1,363"
+    },
+    {
+        "CarName": "元Pro",
+        "PriceRange": "8.98-10.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/75aceda12312482a844f17861bbac469~360x0.webp",
+        "SalesTrend": "1,330"
+    },
+    {
+        "CarName": "锐程PLUS",
+        "PriceRange": "8.49-10.79万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ffd282fde3cc4741b5ed6b8bbaa969ab~360x0.webp",
+        "SalesTrend": "1,324"
+    },
+    {
+        "CarName": "威霆",
+        "PriceRange": "25.88-35.47万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/99be7e56fcde356fb22ec554e1edd23f~360x0.webp",
+        "SalesTrend": "1,322"
+    },
+    {
+        "CarName": "欧拉闪电猫",
+        "PriceRange": "15.98-23.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9a42521e00f5301bbf77aaec4f602946~360x0.webp",
+        "SalesTrend": "1,311"
+    },
+    {
+        "CarName": "瑞虎3x",
+        "PriceRange": "5.09-8.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/824cad6766644142b83d4b33b9a3e824~360x0.webp",
+        "SalesTrend": "1,311"
+    },
+    {
+        "CarName": "极狐 阿尔法S",
+        "PriceRange": "18.48-42.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/68074449504240e8bf194f287a7bdabc~360x0.webp",
+        "SalesTrend": "1,300"
+    },
+    {
+        "CarName": "红旗H6",
+        "PriceRange": "19.28-23.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5f5b06d03ef847f7a958927ccd791263~360x0.webp",
+        "SalesTrend": "1,271"
+    },
+    {
+        "CarName": "标致4008",
+        "PriceRange": "16.07-21.07万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/736419b6347a430fa6ef5941234c9513~360x0.webp",
+        "SalesTrend": "1,257"
+    },
+    {
+        "CarName": "库斯途",
+        "PriceRange": "14.78-19.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b8003b7e07498026bae4c0eef2ac8b4f~360x0.webp",
+        "SalesTrend": "1,238"
+    },
+    {
+        "CarName": "海狮 EV",
+        "PriceRange": "14.48-14.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0a74400a76f63118d3640c7b6367eeb0~360x0.webp",
+        "SalesTrend": "1,236"
+    },
+    {
+        "CarName": "MG4 EV",
+        "PriceRange": "11.58-17.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/798b4dc1a776470c9d5ebf6dae3be966~360x0.webp",
+        "SalesTrend": "1,224"
+    },
+    {
+        "CarName": "王牌M7",
+        "PriceRange": "5.98-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9ab40d5c662d43be9e3e28282ab17ad7~360x0.webp",
+        "SalesTrend": "1,215"
+    },
+    {
+        "CarName": "北京BJ60",
+        "PriceRange": "23.98-28.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a1d19a6232689b9e0f3e59ac314a91c7~360x0.webp",
+        "SalesTrend": "1,210"
+    },
+    {
+        "CarName": "红旗H9",
+        "PriceRange": "30.98-86.00万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5a83a84460054405a374db60196ea265~360x0.webp",
+        "SalesTrend": "1,189"
+    },
+    {
+        "CarName": "狮铂拓界",
+        "PriceRange": "12.98-18.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/64635680904a46d6cc34230eaf9a9552~360x0.webp",
+        "SalesTrend": "1,167"
+    },
+    {
+        "CarName": "奥迪Q2L",
+        "PriceRange": "15.58-18.25万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0e16b77226dca6112ea3d2b8e2e7d9d5~360x0.webp",
+        "SalesTrend": "1,161"
+    },
+    {
+        "CarName": "揽胜极光",
+        "PriceRange": "25.50-32.05万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f6f3c888d1094dbeb62f6472ceb0ca3a~360x0.webp",
+        "SalesTrend": "1,161"
+    },
+    {
+        "CarName": "枫叶60s",
+        "PriceRange": "8.98-14.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/22ab00035ad9fd4ac71b8baf75aa7293~360x0.webp",
+        "SalesTrend": "1,145"
+    },
+    {
+        "CarName": "比亚迪e2",
+        "PriceRange": "10.28-14.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b8781cd4b8d749f997db471d7ee5b563~360x0.webp",
+        "SalesTrend": "1,140"
+    },
+    {
+        "CarName": "奔腾NAT",
+        "PriceRange": "14.78-16.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/86e59b68321279091b353bb89ec0d411~360x0.webp",
+        "SalesTrend": "1,134"
+    },
+    {
+        "CarName": "奔腾T90",
+        "PriceRange": "10.00-14.70万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0f4e570b09094ad188f309de0dd5ae96~360x0.webp",
+        "SalesTrend": "1,134"
+    },
+    {
+        "CarName": "凯迪拉克XT6",
+        "PriceRange": "33.77-47.77万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6d647af5a9e836b52664a4b0e679b4ea~360x0.webp",
+        "SalesTrend": "1,127"
+    },
+    {
+        "CarName": "捷豹XFL",
+        "PriceRange": "26.98-35.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/190c57af7bbbeef1fe4d861898bc4fb0~360x0.webp",
+        "SalesTrend": "1,112"
+    },
+    {
+        "CarName": "劲客",
+        "PriceRange": "8.98-10.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/504fb3220f62bbc899bbe7bdbdb15d0a~360x0.webp",
+        "SalesTrend": "1,109"
+    },
+    {
+        "CarName": "奔驰GLA",
+        "PriceRange": "17.78-23.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ea488e8d2a2b6944933531ac136e4c67~360x0.webp",
+        "SalesTrend": "1,100"
+    },
+    {
+        "CarName": "宝马1系",
+        "PriceRange": "12.53-15.90万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/59e313fe48b24e95a6e56c37ae288f4c~360x0.webp",
+        "SalesTrend": "1,093"
+    },
+    {
+        "CarName": "威然",
+        "PriceRange": "21.98-34.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5dc411ad7f5c2d9d8d69255c864cfded~360x0.webp",
+        "SalesTrend": "1,092"
+    },
+    {
+        "CarName": "腾势N7",
+        "PriceRange": "28.18-35.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c20f7e65103b4758bbb66f1a595f799c~360x0.webp",
+        "SalesTrend": "1,079"
+    },
+    {
+        "CarName": "凯迪拉克XT4",
+        "PriceRange": "19.97-25.67万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0a4bbf84f21a4ef991576b8619a433a1~360x0.webp",
+        "SalesTrend": "1,074"
+    },
+    {
+        "CarName": "马自达CX-50行也",
+        "PriceRange": "15.98-20.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cd69fe0e126842e7ac2d6c942972143f~360x0.webp",
+        "SalesTrend": "1,072"
+    },
+    {
+        "CarName": "吉利几何G6",
+        "PriceRange": "11.98-14.78万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2aa2a7143c4c4d849d972ea8ee260ca2~360x0.webp",
+        "SalesTrend": "1,062"
+    },
+    {
+        "CarName": "星途揽月",
+        "PriceRange": "18.99-23.89万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c271cffb3ca74bedaa33e218863439d4~360x0.webp",
+        "SalesTrend": "1,051"
+    },
+    {
+        "CarName": "领克06 EM-P",
+        "PriceRange": "13.28-15.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d172400f0c9dd6cb0d14c71de26afebe~360x0.webp",
+        "SalesTrend": "1,044"
+    },
+    {
+        "CarName": "凡尔赛C5 X",
+        "PriceRange": "14.37-18.67万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9552e6adc8dd4695bcec7c04ee75b191~360x0.webp",
+        "SalesTrend": "1,021"
+    },
+    {
+        "CarName": "迈腾GTE",
+        "PriceRange": "19.89-21.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/aa0da3e462123203481abf9ce80822a1~360x0.webp",
+        "SalesTrend": "1,016"
+    },
+    {
+        "CarName": "赛图斯",
+        "PriceRange": "8.99-15.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7fe56786e2be481da4a141a6d9364052~360x0.webp",
+        "SalesTrend": "1,004"
+    },
+    {
+        "CarName": "ARIYA 艾睿雅",
+        "PriceRange": "19.99-28.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c16b1a2dfa6203ff91b2a3d20e20bceb~360x0.webp",
+        "SalesTrend": "988"
+    },
+    {
+        "CarName": "五菱星云",
+        "PriceRange": "8.98-10.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8e1e7ccb63a5461ca752b715b97dcba2~360x0.webp",
+        "SalesTrend": "983"
+    },
+    {
+        "CarName": "金海狮",
+        "PriceRange": "6.09-10.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/420edba187de7d68b797455324ccd5af~360x0.webp",
+        "SalesTrend": "978"
+    },
+    {
+        "CarName": "丰田C-HR",
+        "PriceRange": "10.58-15.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b0e1fef05cbb4a33be7c024e82deae95~360x0.webp",
+        "SalesTrend": "970"
+    },
+    {
+        "CarName": "瑞风M3",
+        "PriceRange": "6.58-12.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/84b7fe67cf859ba3a518ab0d3d3bf073~360x0.webp",
+        "SalesTrend": "962"
+    },
+    {
+        "CarName": "北京X7",
+        "PriceRange": "9.49-13.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/67658ecc813347a7ac755fe72b5123ad~360x0.webp",
+        "SalesTrend": "960"
+    },
+    {
+        "CarName": "创维HT-i",
+        "PriceRange": "12.98-29.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7f6a5a194cb36018cb6e25a5f1a0b9e9~360x0.webp",
+        "SalesTrend": "957"
+    },
+    {
+        "CarName": "林肯Z",
+        "PriceRange": "23.18-32.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bcb66ab6c3d3d01477068d328fe05788~360x0.webp",
+        "SalesTrend": "952"
+    },
+    {
+        "CarName": "凯翼昆仑",
+        "PriceRange": "9.99-16.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a385d82599504854a61d9db1639a5daf~360x0.webp",
+        "SalesTrend": "943"
+    },
+    {
+        "CarName": "沃尔沃XC40",
+        "PriceRange": "21.50-30.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6a1caf1b4b697cab56088b3ebb92180c~360x0.webp",
+        "SalesTrend": "942"
+    },
+    {
+        "CarName": "传祺ES9 PHEV",
+        "PriceRange": "22.98-26.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/15c11682cdb54abfa9538ad08c148c9c~360x0.webp",
+        "SalesTrend": "934"
+    },
+    {
+        "CarName": "创维EV6",
+        "PriceRange": "15.68-32.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3554aee6c3f5a8b250f11db8e1b1af84~360x0.webp",
+        "SalesTrend": "928"
+    },
+    {
+        "CarName": "蓝电E5",
+        "PriceRange": "13.99-15.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a85640b7405f4d3889bc55d63edbd0c8~360x0.webp",
+        "SalesTrend": "925"
+    },
+    {
+        "CarName": "本田CR-V PHEV",
+        "PriceRange": "18.89-23.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0047a45a573a45fcbfe7e58c31d36acd~360x0.webp",
+        "SalesTrend": "916"
+    },
+    {
+        "CarName": "睿蓝7",
+        "PriceRange": "11.77-17.37万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/64fcc4a61921451a92fba19edd358d41~360x0.webp",
+        "SalesTrend": "915"
+    },
+    {
+        "CarName": "魔方",
+        "PriceRange": "8.99-12.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6484b5e44861629ef049ac3c1ce3635b~360x0.webp",
+        "SalesTrend": "907"
+    },
+    {
+        "CarName": "领克09 EM-P",
+        "PriceRange": "28.49-33.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c18c74aaf9f35a350456c20a256fe416~360x0.webp",
+        "SalesTrend": "894"
+    },
+    {
+        "CarName": "长安启源A05",
+        "PriceRange": "8.99-13.29万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5952be13e7e5418091afa15fb149ec04~360x0.webp",
+        "SalesTrend": "884"
+    },
+    {
+        "CarName": "smart精灵#3",
+        "PriceRange": "20.99-28.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/ce918680652d4e4db03cb38be9e2e23d~360x0.webp",
+        "SalesTrend": "869"
+    },
+    {
+        "CarName": "帕萨特PHEV",
+        "PriceRange": "20.52-21.44万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1304ba480eb5fec1b5059baef1a8762d~360x0.webp",
+        "SalesTrend": "851"
+    },
+    {
+        "CarName": "欧诺S",
+        "PriceRange": "4.69-5.44万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/dbacf2bc8424c00a4805c3713d449f7d~360x0.webp",
+        "SalesTrend": "845"
+    },
+    {
+        "CarName": "荣威eRX5",
+        "PriceRange": "12.79-16.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e6c1c61db1b244cd87614a65ebe5ac0e~360x0.webp",
+        "SalesTrend": "834"
+    },
+    {
+        "CarName": "发现运动版",
+        "PriceRange": "24.85-33.50万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/baed337da8194904890fcbac6e0e8dce~360x0.webp",
+        "SalesTrend": "830"
+    },
+    {
+        "CarName": "奔驰EQE",
+        "PriceRange": "31.70-37.33万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4ea57237b66d26a84ae6dcc9adc0af6f~360x0.webp",
+        "SalesTrend": "823"
+    },
+    {
+        "CarName": "奕跑",
+        "PriceRange": "6.98-7.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3634d1e1b33e9b6c6c8163d55fcca20c~360x0.webp",
+        "SalesTrend": "814"
+    },
+    {
+        "CarName": "星瑞L",
+        "PriceRange": "暂无报价",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/00919a7f53f64b5a8458267e3ced78f9~360x0.webp",
+        "SalesTrend": "813"
+    },
+    {
+        "CarName": "凯迪拉克CT6",
+        "PriceRange": "32.47-42.47万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1effd18860ed46a9873ed3b7e2552f7b~360x0.webp",
+        "SalesTrend": "809"
+    },
+    {
+        "CarName": "凌派",
+        "PriceRange": "7.98-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0177f23b0d8ce46f98fdd1a0c442f875~360x0.webp",
+        "SalesTrend": "804"
+    },
+    {
+        "CarName": "帝豪L HiP",
+        "PriceRange": "9.58-12.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7317c74acb8a4d00aa8ab358efb895fa~360x0.webp",
+        "SalesTrend": "804"
+    },
+    {
+        "CarName": "吉利几何A",
+        "PriceRange": "11.68-19.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ef638ed8ed491bd5bb2a12337d91faa9~360x0.webp",
+        "SalesTrend": "802"
+    },
+    {
+        "CarName": "ID.6 CROZZ",
+        "PriceRange": "19.09-27.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bfe72d8d82e24fab93410c6b07179b38~360x0.webp",
+        "SalesTrend": "799"
+    },
+    {
+        "CarName": "本田UR-V",
+        "PriceRange": "20.78-32.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/f475084cc3e44000a686ed8f7a955963~360x0.webp",
+        "SalesTrend": "798"
+    },
+    {
+        "CarName": "星途追风",
+        "PriceRange": "9.99-15.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/04e86b0d24e647f6ae1fae3ef6b32be3~360x0.webp",
+        "SalesTrend": "796"
+    },
+    {
+        "CarName": "元宝",
+        "PriceRange": "2.97-4.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/99bb51329fafa5120ad763c8e97a3c22~360x0.webp",
+        "SalesTrend": "786"
+    },
+    {
+        "CarName": "奔腾T55",
+        "PriceRange": "8.19-10.09万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5eb9a1106aaeba38383586d41c10fd06~360x0.webp",
+        "SalesTrend": "769"
+    },
+    {
+        "CarName": "探岳X",
+        "PriceRange": "18.29-21.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2354614b33fc510dcae00876a4a23d77~360x0.webp",
+        "SalesTrend": "754"
+    },
+    {
+        "CarName": "凌尚",
+        "PriceRange": "10.38-13.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/66e6bc900e196b8ffdb72e07bfe2b18e~360x0.webp",
+        "SalesTrend": "750"
+    },
+    {
+        "CarName": "雅阁 PHEV",
+        "PriceRange": "18.58-21.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/22cc55c748b24c929e94f9ab5fe5b4f2~360x0.webp",
+        "SalesTrend": "737"
+    },
+    {
+        "CarName": "江淮QX PHEV",
+        "PriceRange": "12.99-17.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5901534bebac4251a0136474f5411173~360x0.webp",
+        "SalesTrend": "694"
+    },
+    {
+        "CarName": "凌宝BOX",
+        "PriceRange": "4.38-6.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9d72dc64d09e5287ae96d903ebcc638d~360x0.webp",
+        "SalesTrend": "691"
+    },
+    {
+        "CarName": "标致508L",
+        "PriceRange": "15.87-21.07万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e3b8a7573b784ab388129d474b434366~360x0.webp",
+        "SalesTrend": "689"
+    },
+    {
+        "CarName": "长安UNI-K 智电iDD",
+        "PriceRange": "17.79-20.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/a6194aa6662046be9a0c573f2be97266~360x0.webp",
+        "SalesTrend": "689"
+    },
+    {
+        "CarName": "亚洲狮",
+        "PriceRange": "11.18-14.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/425ce00970c41af596f5fb6d21b7fed9~360x0.webp",
+        "SalesTrend": "687"
+    },
+    {
+        "CarName": "思皓X8 PLUS",
+        "PriceRange": "9.68-17.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/db8e7f2ecfe07c9dc3ee5b0fb36acc30~360x0.webp",
+        "SalesTrend": "684"
+    },
+    {
+        "CarName": "远志M1",
+        "PriceRange": "16.28-27.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1391df865bb70731fc6a7ad8cce7f124~360x0.webp",
+        "SalesTrend": "661"
+    },
+    {
+        "CarName": "长安启源A06",
+        "PriceRange": "暂无报价",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/589f3be9862c4b8cbe6cfd918dae5377~360x0.webp",
+        "SalesTrend": "661"
+    },
+    {
+        "CarName": "奔驰EQE SUV",
+        "PriceRange": "33.50-47.96万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8ef5545f7a9744bd9213a54c34ddda90~360x0.webp",
+        "SalesTrend": "652"
+    },
+    {
+        "CarName": "风行T5",
+        "PriceRange": "6.29-13.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f064dda2650019f6c0ba1e1f1a96135c~360x0.webp",
+        "SalesTrend": "648"
+    },
+    {
+        "CarName": "奔腾T77",
+        "PriceRange": "10.58-11.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/208b41b8440a4604b8b663b5a81cfae1~360x0.webp",
+        "SalesTrend": "641"
+    },
+    {
+        "CarName": "ID.6 X",
+        "PriceRange": "20.99-27.64万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bc5400d7759589d05ac39a0f52362327~360x0.webp",
+        "SalesTrend": "634"
+    },
+    {
+        "CarName": "羿",
+        "PriceRange": "11.88-19.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c53f4e31b5bc85aa0d8c14dec47cac09~360x0.webp",
+        "SalesTrend": "620"
+    },
+    {
+        "CarName": "智跑",
+        "PriceRange": "11.48-12.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/93ee7cb27ef156bcbacc11dc008960e1~360x0.webp",
+        "SalesTrend": "615"
+    },
+    {
+        "CarName": "五菱Air ev晴空",
+        "PriceRange": "5.78-6.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8c27ef5a5a234a1d8d74da44fb388893~360x0.webp",
+        "SalesTrend": "614"
+    },
+    {
+        "CarName": "捷豹XEL",
+        "PriceRange": "22.75-34.17万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/738f5783073047c080a6da837c236b97~360x0.webp",
+        "SalesTrend": "613"
+    },
+    {
+        "CarName": "红旗HQ9",
+        "PriceRange": "35.88-53.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b690e5fd5c48d8da3726a893a2d296cf~360x0.webp",
+        "SalesTrend": "585"
+    },
+    {
+        "CarName": "本田LIFE",
+        "PriceRange": "7.58-9.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f664d40aa8fca60a606e852ee01ed2d6~360x0.webp",
+        "SalesTrend": "581"
+    },
+    {
+        "CarName": "柯米克GT",
+        "PriceRange": "10.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b107ac26e249c23a271698a4c770fb62~360x0.webp",
+        "SalesTrend": "579"
+    },
+    {
+        "CarName": "迈锐宝XL",
+        "PriceRange": "12.59-16.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/8171a91a9f3017a9001e682797dc5f77~360x0.webp",
+        "SalesTrend": "573"
+    },
+    {
+        "CarName": "领裕",
+        "PriceRange": "15.85-20.22万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/af5d7d24a04348fa954883a25310b018~360x0.webp",
+        "SalesTrend": "567"
+    },
+    {
+        "CarName": "五菱征程",
+        "PriceRange": "6.78-9.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/14a5f4d31b2390bbe29d1e2ed5c86725~360x0.webp",
+        "SalesTrend": "561"
+    },
+    {
+        "CarName": "风行游艇",
+        "PriceRange": "11.49-15.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/85a0e84f644c302002af793cd2b3584a~360x0.webp",
+        "SalesTrend": "543"
+    },
+    {
+        "CarName": "昂科旗",
+        "PriceRange": "24.19-30.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bc901ffc4cc27ad809db884987ea9edc~360x0.webp",
+        "SalesTrend": "537"
+    },
+    {
+        "CarName": "奥迪Q5L Sportback",
+        "PriceRange": "31.53-38.84万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2cc4f8515f1b80e13dab5fa1e84196f9~360x0.webp",
+        "SalesTrend": "530"
+    },
+    {
+        "CarName": "风光500",
+        "PriceRange": "6.18-8.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/e70c2c39ab8b0a1e6e4d38c67e96c92f~360x0.webp",
+        "SalesTrend": "518"
+    },
+    {
+        "CarName": "上汽大通MAXUS G10",
+        "PriceRange": "11.58-18.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0278cd781f8003a738f78e3a89038863~360x0.webp",
+        "SalesTrend": "515"
+    },
+    {
+        "CarName": "昊铂GT",
+        "PriceRange": "21.99-33.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/9e69c314c8674619b07ab21da1c9f31b~360x0.webp",
+        "SalesTrend": "506"
+    },
+    {
+        "CarName": "沃尔沃XC60 RECHARGE",
+        "PriceRange": "39.59-46.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fc3ab417cc4308639925ee54f86c7419~360x0.webp",
+        "SalesTrend": "500"
+    },
+    {
+        "CarName": "探界者",
+        "PriceRange": "11.99-18.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d0cade284d533a6e482e19d58e728e01~360x0.webp",
+        "SalesTrend": "497"
+    },
+    {
+        "CarName": "途铠",
+        "PriceRange": "8.01-12.61万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c21b08981b849be7a38cfb49f038d530~360x0.webp",
+        "SalesTrend": "491"
+    },
+    {
+        "CarName": "合创Z03",
+        "PriceRange": "13.48-18.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/966f8986005d4b1e9b62bd3bc3231f39~360x0.webp",
+        "SalesTrend": "490"
+    },
+    {
+        "CarName": "e爱丽舍",
+        "PriceRange": "12.98-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9ceefa4a99be7a2c74240137c1d04568~360x0.webp",
+        "SalesTrend": "489"
+    },
+    {
+        "CarName": "风光580",
+        "PriceRange": "7.99-12.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/81ce7abfa259e4a8e2764f1000f284d5~360x0.webp",
+        "SalesTrend": "489"
+    },
+    {
+        "CarName": "昂科拉GX",
+        "PriceRange": "11.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3866263980c14633b88ae5f9d4823c56~360x0.webp",
+        "SalesTrend": "488"
+    },
+    {
+        "CarName": "坦克500",
+        "PriceRange": "33.50-39.50万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5000e8f30e924e12a70153d236ad1d89~360x0.webp",
+        "SalesTrend": "471"
+    },
+    {
+        "CarName": "风光MINIEV",
+        "PriceRange": "3.26-5.56万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d7c240b7c803e1ce776dddab51d26248~360x0.webp",
+        "SalesTrend": "471"
+    },
+    {
+        "CarName": "星迈罗",
+        "PriceRange": "11.99-14.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8872eb50f9e04be1b5b3314e99ffbca7~360x0.webp",
+        "SalesTrend": "470"
+    },
+    {
+        "CarName": "斯威G05",
+        "PriceRange": "8.69-12.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c925af638a1c4f7fb547993f1c3de73e~360x0.webp",
+        "SalesTrend": "465"
+    },
+    {
+        "CarName": "风行S50 EV",
+        "PriceRange": "13.90-16.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7dc51c86c5c6d2541cadc95dcf4aa5d0~360x0.webp",
+        "SalesTrend": "460"
+    },
+    {
+        "CarName": "凯迪拉克CT4",
+        "PriceRange": "18.47-22.47万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5312e1be61924f1988aaf45a2d8bfbb0~360x0.webp",
+        "SalesTrend": "455"
+    },
+    {
+        "CarName": "东风风神AX7",
+        "PriceRange": "10.39-13.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/335257f37e0244d4b83bf6db3507fd1f~360x0.webp",
+        "SalesTrend": "455"
+    },
+    {
+        "CarName": "宝骏KiWi EV",
+        "PriceRange": "7.48-8.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/efdc6c8ac11f8f256a1a69c114935b01~360x0.webp",
+        "SalesTrend": "451"
+    },
+    {
+        "CarName": "启辰D60 EV",
+        "PriceRange": "13.98-14.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9defc15eb235673157d66da8cbba5273~360x0.webp",
+        "SalesTrend": "451"
+    },
+    {
+        "CarName": "皓影 PHEV",
+        "PriceRange": "18.59-21.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/85b719351b6e4aedafea5460767d462d~360x0.webp",
+        "SalesTrend": "449"
+    },
+    {
+        "CarName": "奥迪Q3 Sportback",
+        "PriceRange": "21.37-27.50万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5bcc38dbfe224058a45bfccef3d561c4~360x0.webp",
+        "SalesTrend": "449"
+    },
+    {
+        "CarName": "标致5008",
+        "PriceRange": "17.87-23.37万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1c52368ba37e8b4015e2014021d98abd~360x0.webp",
+        "SalesTrend": "447"
+    },
+    {
+        "CarName": "风光ix5",
+        "PriceRange": "9.98-16.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9519498106439cdc90e3620b34127cfb~360x0.webp",
+        "SalesTrend": "438"
+    },
+    {
+        "CarName": "凯迪拉克GT4",
+        "PriceRange": "19.47-27.97万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6db297a9abf54fcb86895a89462201a4~360x0.webp",
+        "SalesTrend": "430"
+    },
+    {
+        "CarName": "红旗HS7",
+        "PriceRange": "25.58-33.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d88db156ed514c43a111d5f57a4e797d~360x0.webp",
+        "SalesTrend": "425"
+    },
+    {
+        "CarName": "起亚K3",
+        "PriceRange": "7.69-11.39万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/472cba0cc0a54bd6aca66872589b2e1d~360x0.webp",
+        "SalesTrend": "425"
+    },
+    {
+        "CarName": "VGV U70Pro",
+        "PriceRange": "7.78-11.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/af8c0e8b23fb48590ebd0f47bf0bc234~360x0.webp",
+        "SalesTrend": "414"
+    },
+    {
+        "CarName": "开拓者",
+        "PriceRange": "19.49-26.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/87022b02e646f4a4204f2cb8f323d5ca~360x0.webp",
+        "SalesTrend": "410"
+    },
+    {
+        "CarName": "奥迪Q5 e-tron",
+        "PriceRange": "29.85-42.25万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6a288e43d3e85af91ecebda0776126cb~360x0.webp",
+        "SalesTrend": "405"
+    },
+    {
+        "CarName": "雪佛兰畅巡",
+        "PriceRange": "14.49-15.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/017ffe70e741c3fe352de81cc84795ce~360x0.webp",
+        "SalesTrend": "403"
+    },
+    {
+        "CarName": "欧拉芭蕾猫",
+        "PriceRange": "14.98-17.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0bedfedf47aa941755f9ae70f4b0233b~360x0.webp",
+        "SalesTrend": "401"
+    },
+    {
+        "CarName": "探影",
+        "PriceRange": "6.99-11.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1f13ff8a44ab52143390f45ff0a7b8b5~360x0.webp",
+        "SalesTrend": "397"
+    },
+    {
+        "CarName": "凌宝Uni",
+        "PriceRange": "2.98-4.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f0549e706e22b4bef069b9e470c55ff3~360x0.webp",
+        "SalesTrend": "396"
+    },
+    {
+        "CarName": "速派",
+        "PriceRange": "13.19-15.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/2b48a7e90d9cc764cb4828a3de87e1f4~360x0.webp",
+        "SalesTrend": "393"
+    },
+    {
+        "CarName": "五菱荣光EV",
+        "PriceRange": "10.88-11.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/02f306472eacfa1680d3211f0d5ee5b1~360x0.webp",
+        "SalesTrend": "392"
+    },
+    {
+        "CarName": "宝马5系PHEV",
+        "PriceRange": "49.99-53.69万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8521fc33fb8d466b877428ce30a763db~360x0.webp",
+        "SalesTrend": "390"
+    },
+    {
+        "CarName": "智己LS7",
+        "PriceRange": "28.98-45.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/54f6f3a1df194fefb451ad6404921f0a~360x0.webp",
+        "SalesTrend": "385"
+    },
+    {
+        "CarName": "哈弗H9",
+        "PriceRange": "20.48-26.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f4d73dc8d64af9db71aa8ab11543b329~360x0.webp",
+        "SalesTrend": "384"
+    },
+    {
+        "CarName": "飞行家",
+        "PriceRange": "49.08-75.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ad53b550ad2645d145836079677486ca~360x0.webp",
+        "SalesTrend": "379"
+    },
+    {
+        "CarName": "曹操60",
+        "PriceRange": "11.98-15.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/d25c6d42c41f4df7be164b6df938d985~360x0.webp",
+        "SalesTrend": "377"
+    },
+    {
+        "CarName": "斯威G01",
+        "PriceRange": "26.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ebaf0a6393b02410b033ae200675abdc~360x0.webp",
+        "SalesTrend": "376"
+    },
+    {
+        "CarName": "风光380",
+        "PriceRange": "5.28-6.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/e87c65ae4c1e522f6a6e6c7eb2ed110d~360x0.webp",
+        "SalesTrend": "375"
+    },
+    {
+        "CarName": "天逸 C5 AIRCROSS",
+        "PriceRange": "14.77-16.97万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3e3cb558b16d78b64681cedae5076d83~360x0.webp",
+        "SalesTrend": "372"
+    },
+    {
+        "CarName": "小鹏G3",
+        "PriceRange": "14.89-17.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5fe645aae83133a591bb27313ec66986~360x0.webp",
+        "SalesTrend": "363"
+    },
+    {
+        "CarName": "一汽丰田bZ4X",
+        "PriceRange": "13.98-22.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/189c3b232b99c56e0bfb8f4a5acc800b~360x0.webp",
+        "SalesTrend": "362"
+    },
+    {
+        "CarName": "岚图梦想家 EV",
+        "PriceRange": "36.99-68.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f555a18ac28d80c7e938d27b137da439~360x0.webp",
+        "SalesTrend": "354"
+    },
+    {
+        "CarName": "奕泽IZOA",
+        "PriceRange": "11.98-15.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/032f79481ca76533e7a56d98770ad4e3~360x0.webp",
+        "SalesTrend": "348"
+    },
+    {
+        "CarName": "逸动EV",
+        "PriceRange": "14.99-15.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/436afddc96adbf1bea9ad5e693d13a35~360x0.webp",
+        "SalesTrend": "346"
+    },
+    {
+        "CarName": "MG ONE",
+        "PriceRange": "9.98-13.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6aca48597c4c478195acd0dbcee6aa10~360x0.webp",
+        "SalesTrend": "342"
+    },
+    {
+        "CarName": "小麒麟",
+        "PriceRange": "4.99-5.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6fcae0bad3311945fb4cbed63c01a2af~360x0.webp",
+        "SalesTrend": "334"
+    },
+    {
+        "CarName": "蔚来ET7",
+        "PriceRange": "42.80-50.60万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/92006669007e4306aca312150cf83bff~360x0.webp",
+        "SalesTrend": "332"
+    },
+    {
+        "CarName": "柯珞克",
+        "PriceRange": "11.49-15.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f2176b645be4a6b2cb11efbd76de5b0f~360x0.webp",
+        "SalesTrend": "326"
+    },
+    {
+        "CarName": "领克09",
+        "PriceRange": "23.99-29.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1a06bf130547fd74fa56c6a455d8dd7d~360x0.webp",
+        "SalesTrend": "324"
+    },
+    {
+        "CarName": "腾势D9 EV",
+        "PriceRange": "39.58-46.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7751ba552d384a5aa57d20cc58876b29~360x0.webp",
+        "SalesTrend": "317"
+    },
+    {
+        "CarName": "上汽大通MAXUS 大家9",
+        "PriceRange": "25.39-40.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/149f3cd713fb650b0414ba133fad555a~360x0.webp",
+        "SalesTrend": "315"
+    },
+    {
+        "CarName": "艾瑞泽e",
+        "PriceRange": "13.78-14.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/801fac00fa4a0818fc25e1fc20372dda~360x0.webp",
+        "SalesTrend": "313"
+    },
+    {
+        "CarName": "LYRIQ锐歌",
+        "PriceRange": "37.96-41.96万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/5b605a25ad8a418bb3cdadd026658e20~360x0.webp",
+        "SalesTrend": "311"
+    },
+    {
+        "CarName": "奔驰EQA",
+        "PriceRange": "19.20万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/479c2d42a3fdaafed831cd8b668c751e~360x0.webp",
+        "SalesTrend": "308"
+    },
+    {
+        "CarName": "思皓爱跑",
+        "PriceRange": "14.69-17.69万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/076bc948f11dbcfec71b9f42df8a364d~360x0.webp",
+        "SalesTrend": "307"
+    },
+    {
+        "CarName": "极狐 阿尔法T",
+        "PriceRange": "18.08-32.53万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8096473bc63d451da7fe5f64b97bc7ff~360x0.webp",
+        "SalesTrend": "302"
+    },
+    {
+        "CarName": "奥迪Q6",
+        "PriceRange": "43.96-57.56万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f2c6590230ea9e5dafc638dfb7091ab0~360x0.webp",
+        "SalesTrend": "299"
+    },
+    {
+        "CarName": "凯捷Victory",
+        "PriceRange": "8.58-14.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5fff844965c8fbb2cb26be058db9e276~360x0.webp",
+        "SalesTrend": "297"
+    },
+    {
+        "CarName": "荣威iMAX8",
+        "PriceRange": "18.58-25.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6db94c2ed63e49d6a42eba931d90c2c0~360x0.webp",
+        "SalesTrend": "290"
+    },
+    {
+        "CarName": "风光S560",
+        "PriceRange": "6.79-7.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ff3d4636305ad260c3cb9258efcca985~360x0.webp",
+        "SalesTrend": "290"
+    },
+    {
+        "CarName": "风行雷霆",
+        "PriceRange": "8.99-17.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/208be4380d144330a1968e5c32356d41~360x0.webp",
+        "SalesTrend": "267"
+    },
+    {
+        "CarName": "英菲尼迪QX50",
+        "PriceRange": "23.38-38.07万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6538990a28bbef23dac96e53c83ddce2~360x0.webp",
+        "SalesTrend": "266"
+    },
+    {
+        "CarName": "荣威iMAX8 EV",
+        "PriceRange": "25.98-35.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9939c7a9f9fe0f62a15eb3c074b52123~360x0.webp",
+        "SalesTrend": "246"
+    },
+    {
+        "CarName": "途观L PHEV",
+        "PriceRange": "22.61-23.70万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/78839f72969927901241f358c5115d2c~360x0.webp",
+        "SalesTrend": "244"
+    },
+    {
+        "CarName": "沃尔沃S90 RECHARGE",
+        "PriceRange": "36.99-46.89万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/30c75f1e8d46ba045e0078395194ddb8~360x0.webp",
+        "SalesTrend": "241"
+    },
+    {
+        "CarName": "嘉华",
+        "PriceRange": "23.89-28.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c6ac1024c4633112f738ffc8fc41b52c~360x0.webp",
+        "SalesTrend": "233"
+    },
+    {
+        "CarName": "星途追风 PHEV",
+        "PriceRange": "13.28-14.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7c188cd103654b8ca7cdecc8bc54c25f~360x0.webp",
+        "SalesTrend": "219"
+    },
+    {
+        "CarName": "MG6",
+        "PriceRange": "9.48-11.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/536a776803839c461a7f65b533290b18~360x0.webp",
+        "SalesTrend": "215"
+    },
+    {
+        "CarName": "岚图追光",
+        "PriceRange": "32.29-38.59万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/45e0ac325fd04a4e8b1ce482ce1be56e~360x0.webp",
+        "SalesTrend": "210"
+    },
+    {
+        "CarName": "蔚来ES7",
+        "PriceRange": "43.80-51.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/03f85ad23b75470aa2c6b8fc43fc8c11~360x0.webp",
+        "SalesTrend": "207"
+    },
+    {
+        "CarName": "风光330",
+        "PriceRange": "4.19-6.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6f7c31bce10482b0e6b2db15654441e8~360x0.webp",
+        "SalesTrend": "206"
+    },
+    {
+        "CarName": "探岳GTE",
+        "PriceRange": "19.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/aac0f155b2015c4933cda7ea9afec655~360x0.webp",
+        "SalesTrend": "205"
+    },
+    {
+        "CarName": "蔚来EC7",
+        "PriceRange": "45.80-54.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/885a4f39f1d84a7aadde3c114219c1dd~360x0.webp",
+        "SalesTrend": "204"
+    },
+    {
+        "CarName": "标致408X",
+        "PriceRange": "14.57-17.97万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4211faff193940beab4af0d54f89ec2d~360x0.webp",
+        "SalesTrend": "202"
+    },
+    {
+        "CarName": "红旗E-HS9",
+        "PriceRange": "50.98-77.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fb5c6d20cd6044b28f6eec55dcd6c61c~360x0.webp",
+        "SalesTrend": "200"
+    },
+    {
+        "CarName": "启辰D60",
+        "PriceRange": "7.88-8.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/19edcae930eb41e6995bb85e5ae1dea3~360x0.webp",
+        "SalesTrend": "200"
+    },
+    {
+        "CarName": "e:NP1 极湃1",
+        "PriceRange": "13.50-17.80万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8f1fca2269d94ce289be76e6a2da2dd8~360x0.webp",
+        "SalesTrend": "198"
+    },
+    {
+        "CarName": "途睿欧",
+        "PriceRange": "20.96-23.30万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/14c65fe6c78648d98181e94d165541f1~360x0.webp",
+        "SalesTrend": "195"
+    },
+    {
+        "CarName": "菲斯塔",
+        "PriceRange": "11.88-13.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/59c714d0afdd6fbe61a5108d3c29327f~360x0.webp",
+        "SalesTrend": "191"
+    },
+    {
+        "CarName": "菱智M5 EV",
+        "PriceRange": "13.49-18.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/15d17f467e2b685be5487fe2fcad8df9~360x0.webp",
+        "SalesTrend": "191"
+    },
+    {
+        "CarName": "EVOS",
+        "PriceRange": "16.88-22.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/62f1f5c9892cfbf4cf1c75e071638aa7~360x0.webp",
+        "SalesTrend": "187"
+    },
+    {
+        "CarName": "红旗H7",
+        "PriceRange": "17.98-28.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/78023a6567ddb717ea22b1f44fd9d4d3~360x0.webp",
+        "SalesTrend": "186"
+    },
+    {
+        "CarName": "吉利几何C",
+        "PriceRange": "11.98-19.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/14800010db265dbb4e54b322efe6b9fb~360x0.webp",
+        "SalesTrend": "185"
+    },
+    {
+        "CarName": "英仕派 PHEV",
+        "PriceRange": "18.48-21.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2bf120cedd91403a856299dadaaa5cb8~360x0.webp",
+        "SalesTrend": "183"
+    },
+    {
+        "CarName": "起亚K5",
+        "PriceRange": "12.78-17.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b9d80160c481012488835c2bfca2444c~360x0.webp",
+        "SalesTrend": "182"
+    },
+    {
+        "CarName": "标致2008",
+        "PriceRange": "9.97万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6b4e64ab6004f080dee3bd0eb61b322a~360x0.webp",
+        "SalesTrend": "181"
+    },
+    {
+        "CarName": "广汽丰田bZ4X",
+        "PriceRange": "16.98-25.78万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0534600885eae10c8086cc8cee5d19fb~360x0.webp",
+        "SalesTrend": "174"
+    },
+    {
+        "CarName": "索纳塔",
+        "PriceRange": "12.98-17.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3a77e1d3e95b18a62bdc1219f53f1732~360x0.webp",
+        "SalesTrend": "173"
+    },
+    {
+        "CarName": "帝豪EV",
+        "PriceRange": "13.98-14.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0fd8b1fa3b9415afad38741c159dd3e5~360x0.webp",
+        "SalesTrend": "172"
+    },
+    {
+        "CarName": "辉昂",
+        "PriceRange": "23.50-36.70万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/83ea15115e6f0f60f15837da6dea8470~360x0.webp",
+        "SalesTrend": "167"
+    },
+    {
+        "CarName": "212",
+        "PriceRange": "7.98-12.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/67c16da18ac7c40273f8f3bda591f283~360x0.webp",
+        "SalesTrend": "162"
+    },
+    {
+        "CarName": "YOUNG光小新",
+        "PriceRange": "6.68-8.48万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/3521e3d04aa24f698224fa2dbc7e335f~360x0.webp",
+        "SalesTrend": "161"
+    },
+    {
+        "CarName": "高合HiPhi X",
+        "PriceRange": "57.00-80.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ffeed63a3d77e832e4010a065fbf156c~360x0.webp",
+        "SalesTrend": "160"
+    },
+    {
+        "CarName": "哈弗赤兔",
+        "PriceRange": "7.98-12.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/e7839b650abba0c7b787aa48aa248b4f~360x0.webp",
+        "SalesTrend": "157"
+    },
+    {
+        "CarName": "比亚迪D1",
+        "PriceRange": "13.78-16.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/16a73f90c37db0a802139dd3bcb55a8b~360x0.webp",
+        "SalesTrend": "154"
+    },
+    {
+        "CarName": "胜达",
+        "PriceRange": "14.28-20.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/575e60c3718d13180235956bf4c507d0~360x0.webp",
+        "SalesTrend": "154"
+    },
+    {
+        "CarName": "VGV U75PLUS",
+        "PriceRange": "11.79-18.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c30c48c306250df3a43cadc2f2de9613~360x0.webp",
+        "SalesTrend": "152"
+    },
+    {
+        "CarName": "明锐",
+        "PriceRange": "8.49-13.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/446cefc9f37c18db11135ec928a34f0f~360x0.webp",
+        "SalesTrend": "149"
+    },
+    {
+        "CarName": "英菲尼迪QX60",
+        "PriceRange": "32.88-51.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7a627875ede9d3e13c79a4c4218a2d4a~360x0.webp",
+        "SalesTrend": "146"
+    },
+    {
+        "CarName": "奔驰EQB",
+        "PriceRange": "19.54-27.14万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0ce310756305451683f1d6b201f17352~360x0.webp",
+        "SalesTrend": "145"
+    },
+    {
+        "CarName": "东风本田M-NV",
+        "PriceRange": "11.48-12.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b20ad2749ca184a995d7d9b88d20b147~360x0.webp",
+        "SalesTrend": "142"
+    },
+    {
+        "CarName": "摩卡DHT-PHEV",
+        "PriceRange": "23.18万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/cd89d1fdd41e40d49d633e182ad7e81c~360x0.webp",
+        "SalesTrend": "141"
+    },
+    {
+        "CarName": "奥迪e-tron",
+        "PriceRange": "32.81-38.93万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/e8587b667f120eb9f0f98d11371b8b74~360x0.webp",
+        "SalesTrend": "140"
+    },
+    {
+        "CarName": "柯迪亚克",
+        "PriceRange": "14.69-24.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bdbd1bffe440a691fb9e8c37ab20e8f6~360x0.webp",
+        "SalesTrend": "139"
+    },
+    {
+        "CarName": "易至EV3",
+        "PriceRange": "5.28-6.68万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/85b368807a6e4a4384b8b605eebe55bf~360x0.webp",
+        "SalesTrend": "137"
+    },
+    {
+        "CarName": "荣威Ei5",
+        "PriceRange": "15.28-16.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f44c223bbfe4ddf0d92ef89139ae89bd~360x0.webp",
+        "SalesTrend": "135"
+    },
+    {
+        "CarName": "比亚迪e3",
+        "PriceRange": "15.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/993f74dfdbd9feb7e14875c014b44163~360x0.webp",
+        "SalesTrend": "132"
+    },
+    {
+        "CarName": "哈弗神兽",
+        "PriceRange": "11.50-15.20万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2b24862d74c248ca999345985785ab0c~360x0.webp",
+        "SalesTrend": "127"
+    },
+    {
+        "CarName": "焕驰",
+        "PriceRange": "6.39-6.79万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/c655aa38e008e10259a76a207c62a295~360x0.webp",
+        "SalesTrend": "127"
+    },
+    {
+        "CarName": "AION LX",
+        "PriceRange": "21.66-39.96万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/dbf23140365cfdd6d48480c3fd5bbe46~360x0.webp",
+        "SalesTrend": "126"
+    },
+    {
+        "CarName": "创酷",
+        "PriceRange": "8.69-10.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7f32d8c6bf3899a4d61b5059c5717c70~360x0.webp",
+        "SalesTrend": "120"
+    },
+    {
+        "CarName": "沃尔沃XC40 RECHARGE",
+        "PriceRange": "27.99-32.20万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/31d2b6da640b935204b7bfc42e4206a2~360x0.webp",
+        "SalesTrend": "116"
+    },
+    {
+        "CarName": "领克01",
+        "PriceRange": "14.99-19.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/d05b5b5b5508aec61dd06347a6389346~360x0.webp",
+        "SalesTrend": "113"
+    },
+    {
+        "CarName": "启辰星",
+        "PriceRange": "11.86-14.96万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/b0b6cc8b5a444a168d223471447a26dc~360x0.webp",
+        "SalesTrend": "112"
+    },
+    {
+        "CarName": "捷豹E-PACE",
+        "PriceRange": "26.23-31.95万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/1e15311a8df14f7b9e95bdbc308c9eb1~360x0.webp",
+        "SalesTrend": "111"
+    },
+    {
+        "CarName": "小虎FEV",
+        "PriceRange": "4.19-5.59万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9265da77f9e501614776f2afe7afa78f~360x0.webp",
+        "SalesTrend": "110"
+    },
+    {
+        "CarName": "炫界Pro EV",
+        "PriceRange": "11.99-17.66万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/297b50a8f659602e2fd62223e67c0c2a~360x0.webp",
+        "SalesTrend": "110"
+    },
+    {
+        "CarName": "沃尔沃C40 RECHARGE",
+        "PriceRange": "25.90-34.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a33abe2401429de388c10fa422965b66~360x0.webp",
+        "SalesTrend": "107"
+    },
+    {
+        "CarName": "飞凡R7",
+        "PriceRange": "27.99-38.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/0411511da1c7449094e840d419972f01~360x0.webp",
+        "SalesTrend": "106"
+    },
+    {
+        "CarName": "别克E4",
+        "PriceRange": "18.99-25.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/175bc28c8fc7468285a60c50af81f2e3~360x0.webp",
+        "SalesTrend": "103"
+    },
+    {
+        "CarName": "上汽大通MAXUS G90",
+        "PriceRange": "21.49-32.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/a1ee687418329152e9c1b720e140a392~360x0.webp",
+        "SalesTrend": "100"
+    },
+    {
+        "CarName": "领界",
+        "PriceRange": "9.98-15.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0fe20c206f939c5f163ea779cb222287~360x0.webp",
+        "SalesTrend": "97"
+    },
+    {
+        "CarName": "途安L",
+        "PriceRange": "13.68-16.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/20f107b28a94a16705865e9b91e79819~360x0.webp",
+        "SalesTrend": "93"
+    },
+    {
+        "CarName": "睿蓝9",
+        "PriceRange": "15.99-17.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7575b7c9d59f478391ec644c2ae07201~360x0.webp",
+        "SalesTrend": "93"
+    },
+    {
+        "CarName": "途达",
+        "PriceRange": "14.98-22.83万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4fb69a37d8e0b84f5ba9d634e58c00f5~360x0.webp",
+        "SalesTrend": "92"
+    },
+    {
+        "CarName": "荣威RX9",
+        "PriceRange": "17.58-24.38万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7118e0bee36049a283022e08e4995b36~360x0.webp",
+        "SalesTrend": "90"
+    },
+    {
+        "CarName": "勇士",
+        "PriceRange": "10.68-14.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/dcf664514941d152d7c6466649b34f29~360x0.webp",
+        "SalesTrend": "88"
+    },
+    {
+        "CarName": "昂扬",
+        "PriceRange": "11.49-14.09万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/83dfea1c6d9a4ca6a1d324a8c13ae3e6~360x0.webp",
+        "SalesTrend": "88"
+    },
+    {
+        "CarName": "轩度",
+        "PriceRange": "7.98-9.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fad7c3cbf79e7f38ea95446b78b262c3~360x0.webp",
+        "SalesTrend": "86"
+    },
+    {
+        "CarName": "享域",
+        "PriceRange": "6.68-12.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f2ed945c45d908125c08d0c9ae3c718c~360x0.webp",
+        "SalesTrend": "83"
+    },
+    {
+        "CarName": "撼路者",
+        "PriceRange": "26.58-36.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b4919cc5ceb667da3f85cb603bde169d~360x0.webp",
+        "SalesTrend": "80"
+    },
+    {
+        "CarName": "福特电马",
+        "PriceRange": "20.99-32.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/bca77bab26da49cd9d6369d983b25ffc~360x0.webp",
+        "SalesTrend": "79"
+    },
+    {
+        "CarName": "马自达CX-30",
+        "PriceRange": "11.99-18.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f52705ca1c53816aaa856c1a1ae056df~360x0.webp",
+        "SalesTrend": "78"
+    },
+    {
+        "CarName": "海马7X",
+        "PriceRange": "12.98-16.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0ccdcce434e8438ddd85acf1f1502c03~360x0.webp",
+        "SalesTrend": "73"
+    },
+    {
+        "CarName": "极石01",
+        "PriceRange": "34.99-35.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/e61b5702879c422bb768326b2b69a896~360x0.webp",
+        "SalesTrend": "72"
+    },
+    {
+        "CarName": "高合HiPhi Z",
+        "PriceRange": "51.00-63.00万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/192162a7af84b3b059801c4d261ddeb7~360x0.webp",
+        "SalesTrend": "68"
+    },
+    {
+        "CarName": "合创V09",
+        "PriceRange": "31.88-43.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7326212aa38e48f4983959b242a74c05~360x0.webp",
+        "SalesTrend": "67"
+    },
+    {
+        "CarName": "奔腾T99",
+        "PriceRange": "11.99-17.19万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c824422f6b304aa381f609de73f94fc3~360x0.webp",
+        "SalesTrend": "63"
+    },
+    {
+        "CarName": "无界Pro",
+        "PriceRange": "7.29-9.89万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/43d183c57f8343339359a58dd2d7c8d8~360x0.webp",
+        "SalesTrend": "62"
+    },
+    {
+        "CarName": "哈弗酷狗",
+        "PriceRange": "10.38-12.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/542c787061ef1dc3acaa30b2d30ce797~360x0.webp",
+        "SalesTrend": "52"
+    },
+    {
+        "CarName": "枫叶80v",
+        "PriceRange": "8.98-15.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7686d8b65af80d29a3f9525a4ae15ecf~360x0.webp",
+        "SalesTrend": "50"
+    },
+    {
+        "CarName": "北京BJ80",
+        "PriceRange": "29.30-39.30万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4f52b32a408cd7fd40a897d72970964f~360x0.webp",
+        "SalesTrend": "46"
+    },
+    {
+        "CarName": "富康ES600",
+        "PriceRange": "15.38-16.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9d0422fde61435579a20862d9847eecf~360x0.webp",
+        "SalesTrend": "46"
+    },
+    {
+        "CarName": "奔腾M9",
+        "PriceRange": "22.98-24.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/87923bd1a148439abd86c047bdd7dc6d~360x0.webp",
+        "SalesTrend": "44"
+    },
+    {
+        "CarName": "瑞风E3",
+        "PriceRange": "17.48-20.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9b9b2bcb01b623c18ed53331a08ff11b~360x0.webp",
+        "SalesTrend": "43"
+    },
+    {
+        "CarName": "长安CS95",
+        "PriceRange": "16.59-18.99万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c8c2f3936912439c9a470b5aaa1ee7e1~360x0.webp",
+        "SalesTrend": "41"
+    },
+    {
+        "CarName": "合创A06",
+        "PriceRange": "17.98-26.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6ed97fb37fb446c2bfc1ed3f142f8015~360x0.webp",
+        "SalesTrend": "38"
+    },
+    {
+        "CarName": "RAV4荣放双擎E+",
+        "PriceRange": "22.18-26.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/4fcf011be1ed190903989d9a4c87225d~360x0.webp",
+        "SalesTrend": "37"
+    },
+    {
+        "CarName": "发现运动版PHEV",
+        "PriceRange": "29.00万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/be4baa8456f641808b9ef8933a9d8333~360x0.webp",
+        "SalesTrend": "34"
+    },
+    {
+        "CarName": "长安CS85 COUPE",
+        "PriceRange": "11.49-15.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/177a6d1b0eec22d2e2401ec5488d3455~360x0.webp",
+        "SalesTrend": "34"
+    },
+    {
+        "CarName": "揽胜极光PHEV",
+        "PriceRange": "30.00万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/8fdb570f7426485098f3b4d81a457c01~360x0.webp",
+        "SalesTrend": "34"
+    },
+    {
+        "CarName": "上汽大通MAXUS D60",
+        "PriceRange": "11.38-11.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/8ad8e32b0d69a70470645d077a560c27~360x0.webp",
+        "SalesTrend": "30"
+    },
+    {
+        "CarName": "奔腾B70S",
+        "PriceRange": "10.99-14.29万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6c5efbe832eebd5cac8292af76a42d83~360x0.webp",
+        "SalesTrend": "27"
+    },
+    {
+        "CarName": "上汽大通MAXUS D90 Pro",
+        "PriceRange": "17.98-30.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6ecd6af4a3103d8cb40d1547fa982aae~360x0.webp",
+        "SalesTrend": "26"
+    },
+    {
+        "CarName": "傲跑",
+        "PriceRange": "10.80-13.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3372af9aa7c3ea4724e0b8809add1ff0~360x0.webp",
+        "SalesTrend": "23"
+    },
+    {
+        "CarName": "启辰T60",
+        "PriceRange": "7.88-10.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/9e393843ac2d25e558685dcb68894719~360x0.webp",
+        "SalesTrend": "22"
+    },
+    {
+        "CarName": "沃尔沃S60 RECHARGE",
+        "PriceRange": "30.99-37.19万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0e1a0647fc7451ffefef866f0bf05386~360x0.webp",
+        "SalesTrend": "22"
+    },
+    {
+        "CarName": "拿铁DHT-PHEV",
+        "PriceRange": "19.40-22.80万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/725b1dc66ecb6ae5c9b4e9d4d0d7aed6~360x0.webp",
+        "SalesTrend": "19"
+    },
+    {
+        "CarName": "荣威RX3",
+        "PriceRange": "6.78-8.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7a72b35f6c07573796372a87430d08fa~360x0.webp",
+        "SalesTrend": "19"
+    },
+    {
+        "CarName": "DS 7",
+        "PriceRange": "24.99-32.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/ed26b29c1b4cc3f3c703070d4997ce5e~360x0.webp",
+        "SalesTrend": "19"
+    },
+    {
+        "CarName": "DS 9",
+        "PriceRange": "25.49-34.99万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/fc67d704cb45ca837dc5130b5cc62498~360x0.webp",
+        "SalesTrend": "18"
+    },
+    {
+        "CarName": "福克斯",
+        "PriceRange": "10.48-13.08万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/afc56a676f2fa14ec1dff1f943016eab~360x0.webp",
+        "SalesTrend": "15"
+    },
+    {
+        "CarName": "星越L 增程电动版",
+        "PriceRange": "22.77-24.17万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1de5778e4fb08daa009c7fb564c2de0f~360x0.webp",
+        "SalesTrend": "15"
+    },
+    {
+        "CarName": "昕锐",
+        "PriceRange": "8.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/bc388c092dda8d3bcedb2c66cfda1941~360x0.webp",
+        "SalesTrend": "14"
+    },
+    {
+        "CarName": "蓝鸟",
+        "PriceRange": "12.59-13.39万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6a890b642bc57f51fada5de6db6af34d~360x0.webp",
+        "SalesTrend": "13"
+    },
+    {
+        "CarName": "哈弗H6新能源",
+        "PriceRange": "14.48-15.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f6c414b7d3d6068a4cf97e19b1f7b11f~360x0.webp",
+        "SalesTrend": "11"
+    },
+    {
+        "CarName": "吉利几何M6",
+        "PriceRange": "12.28-14.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/83c8ee7c79a3f33e111a6de8c54e21bc~360x0.webp",
+        "SalesTrend": "11"
+    },
+    {
+        "CarName": "传祺GA8",
+        "PriceRange": "15.18-22.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/911cc4fa34ff545a5f7b8806299169a0~360x0.webp",
+        "SalesTrend": "9"
+    },
+    {
+        "CarName": "红旗LS7",
+        "PriceRange": "136.58-146.58万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/0b094b3ada0704b3ef49fa69acb10d59~360x0.webp",
+        "SalesTrend": "8"
+    },
+    {
+        "CarName": "威驰",
+        "PriceRange": "7.38-9.48万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5a47279a2f425d7c1505b60d0478d9a8~360x0.webp",
+        "SalesTrend": "7"
+    },
+    {
+        "CarName": "捷途X70S EV",
+        "PriceRange": "16.98-17.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/f4e6e2fbaa0cecf457663534e094c6f1~360x0.webp",
+        "SalesTrend": "7"
+    },
+    {
+        "CarName": "名图 纯电动",
+        "PriceRange": "16.88-19.38万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/b67b3eec8cfd60f7bff89c8e01f844a6~360x0.webp",
+        "SalesTrend": "6"
+    },
+    {
+        "CarName": "威兰达高性能版",
+        "PriceRange": "25.18-29.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/fe0a534abd314543a5f1f803bab7597d~360x0.webp",
+        "SalesTrend": "6"
+    },
+    {
+        "CarName": "智己L7",
+        "PriceRange": "33.88-57.88万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/2b9f5b7572c6425284d7c82243b15016~360x0.webp",
+        "SalesTrend": "6"
+    },
+    {
+        "CarName": "起亚EV6",
+        "PriceRange": "28.28-43.98万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/c3b536d42b64429b83545b5beb832332~360x0.webp",
+        "SalesTrend": "6"
+    },
+    {
+        "CarName": "马自达CX-30 EV",
+        "PriceRange": "15.98-20.18万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/79d417ac74b4f57a2935af5f3cdf409e~360x0.webp",
+        "SalesTrend": "5"
+    },
+    {
+        "CarName": "岚图追光 PHEV",
+        "PriceRange": "暂无报价",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/74fb0b1b0649446287b28a14162b940b~360x0.webp",
+        "SalesTrend": "5"
+    },
+    {
+        "CarName": "合创007",
+        "PriceRange": "29.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/08a44355529f774514bb9aa8957929a2~360x0.webp",
+        "SalesTrend": "5"
+    },
+    {
+        "CarName": "MG ZS",
+        "PriceRange": "8.58-9.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/65ffd10557f995aeb3d5743592e170aa~360x0.webp",
+        "SalesTrend": "4"
+    },
+    {
+        "CarName": "DS 9 PHEV",
+        "PriceRange": "33.49-40.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6505fe35f2a3a3ffa5a1ffbb7bd5a617~360x0.webp",
+        "SalesTrend": "3"
+    },
+    {
+        "CarName": "广汽本田VE-1",
+        "PriceRange": "14.38-17.68万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/6b45b76df3eac473edc4da19a10ce8d7~360x0.webp",
+        "SalesTrend": "3"
+    },
+    {
+        "CarName": "楼兰",
+        "PriceRange": "17.78-22.28万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/6b198431f20a40b0bab91e7df531f31c~360x0.webp",
+        "SalesTrend": "3"
+    },
+    {
+        "CarName": "绎乐",
+        "PriceRange": "13.78-15.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/7c81468c2481b939613261d525bd1e8b~360x0.webp",
+        "SalesTrend": "2"
+    },
+    {
+        "CarName": "卡罗拉双擎E+",
+        "PriceRange": "18.98-21.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/5d24ebd28604b5143898bbf4ae6f8dae~360x0.webp",
+        "SalesTrend": "2"
+    },
+    {
+        "CarName": "名图",
+        "PriceRange": "11.38-14.88万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/72d70bf376d6bb70c1e42dd8342f3413~360x0.webp",
+        "SalesTrend": "2"
+    },
+    {
+        "CarName": "威驰FS",
+        "PriceRange": "7.78-9.28万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/1c65e3ac4deae8b92f41852fe283989a~360x0.webp",
+        "SalesTrend": "1"
+    },
+    {
+        "CarName": "花仙子",
+        "PriceRange": "5.99-7.49万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/7a7c73fd87fe459f9f75a1ebdcf7c74a~360x0.webp",
+        "SalesTrend": "1"
+    },
+    {
+        "CarName": "英菲尼迪Q50L",
+        "PriceRange": "17.21-25.58万",
+        "CarImage": "https://p3.dcarimg.com/img/tos-cn-i-dcdx/4a825a6a359e4fc48aeb586f0c87cd50~360x0.webp",
+        "SalesTrend": "1"
+    },
+    {
+        "CarName": "长安CS15",
+        "PriceRange": "5.99-7.49万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/3286bf0263e5734ce7ccc0c763630315~360x0.webp",
+        "SalesTrend": "1"
+    },
+    {
+        "CarName": "MG6 PHEV",
+        "PriceRange": "14.28-19.98万",
+        "CarImage": "https://p3.dcarimg.com/img/motor-img/16e6d5614f7333918afa4d91a79e7466~360x0.webp",
+        "SalesTrend": "1"
+    }
+]
